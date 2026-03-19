@@ -1,0 +1,51 @@
+# Data (too large for git)
+data/
+
+# Logs
+logs/
+
+# Outputs (figures, tables, interactive)
+outputs/
+
+# Dashboard
+dashboard/
+
+# Documentation drafts (not for sharing)
+docs/
+places_hrsn_execution_plan.md
+
+# PDFs
+*.pdf
+
+# Temp conda file
+condaenv.*.requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Local tool settings
+.claude/
