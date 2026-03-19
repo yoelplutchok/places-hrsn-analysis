@@ -12,6 +12,7 @@ dashboard/
 
 # Documentation drafts (not for sharing)
 docs/
+!docs/summary.md
 places_hrsn_execution_plan.md
 
 # PDFs
