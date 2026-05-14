@@ -1,0 +1,7 @@
+disease,disease_label,n_counties,pct_suppressed,n_models,n_significant,n_concordant,pct_concordant,mean_r2,pearson_r_betas,spearman_r_betas
+diabetes,Diabetes,1894,14.3,7,2,6,85.7,0.3521,0.6962,0.75
+chd,Coronary Heart Disease,2208,0.1,7,2,2,28.6,0.4156,-0.0256,-0.0714
+copd,COPD,2087,5.6,7,3,2,28.6,0.5796,-0.2328,0.0
+stroke,Stroke,2022,8.5,7,2,1,14.3,0.4443,-0.4084,0.0
+casthma,Asthma,161,92.7,7,0,3,42.9,0.3669,-0.3481,-0.6786
+OVERALL,All diseases,1674,24.2,35,9,14,40.0,0.4317,-0.1139,-0.1756

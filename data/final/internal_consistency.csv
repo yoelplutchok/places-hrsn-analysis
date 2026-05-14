@@ -1,0 +1,3 @@
+factor,n_items,items,cronbach_alpha,alpha_evaluation,mcdonalds_omega,mean_item_total_r,min_item_total_r,n_tracts
+Material Hardship,5,"foodstamp, foodinsecu, housinsecu, shututility, lacktrpt",0.9673,Excellent,0.9919,0.9759,0.9593,60156
+Social Isolation,2,"emotionspt, loneliness",0.9029,Excellent,0.9074,0.8312,0.8312,60156

@@ -1,0 +1,2 @@
+model,n_tracts,chi2,df,chi2_pvalue,CFI,RMSEA,SRMR,evaluation
+2-factor CFA (validation half),30078,30814.66,13,0.0,0.934,0.2807,,CFI: ACCEPTABLE; RMSEA: POOR

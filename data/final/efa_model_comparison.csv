@@ -1,0 +1,6 @@
+n_factors,total_variance_explained,min_communality,max_communality
+1,0.8612,0.5548,0.9932
+2,0.9315,1.0177,1.3801
+3,0.962,1.0227,1.9126
+4,0.9583,1.051,1.7276
+5,0.9605,1.0642,1.5776

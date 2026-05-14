@@ -1,0 +1,29 @@
+outcome,model,rmse_mean,rmse_std,mae_mean,r2_oos_mean,r2_oos_std,r2_insample_mean
+casthma,Covariates Only,0.6712,0.0087,0.5122,0.5489,0.0179,0.5495
+casthma,HRSN + Covariates,0.5226,0.0052,0.4014,0.7265,0.0101,0.7271
+casthma,HRSN + SVI + Covariates,0.5181,0.0057,0.3968,0.7312,0.01,0.7318
+casthma,SVI + Covariates,0.6529,0.009,0.4971,0.5732,0.0157,0.5739
+chd,Covariates Only,0.5007,0.009,0.3702,0.7491,0.0054,0.7493
+chd,HRSN + Covariates,0.3848,0.0081,0.2878,0.8518,0.0037,0.852
+chd,HRSN + SVI + Covariates,0.3746,0.0086,0.2812,0.8596,0.0041,0.8598
+chd,SVI + Covariates,0.485,0.0089,0.3586,0.7647,0.0049,0.7649
+copd,Covariates Only,0.4811,0.0072,0.3511,0.7684,0.0081,0.7686
+copd,HRSN + Covariates,0.3255,0.0049,0.2408,0.8939,0.0038,0.8941
+copd,HRSN + SVI + Covariates,0.3083,0.005,0.2295,0.9048,0.0037,0.905
+copd,SVI + Covariates,0.4605,0.0063,0.3363,0.7877,0.007,0.788
+depression,Covariates Only,0.7697,0.0063,0.6082,0.4074,0.0102,0.4076
+depression,HRSN + Covariates,0.6154,0.0065,0.4891,0.6211,0.0106,0.6215
+depression,HRSN + SVI + Covariates,0.5987,0.0073,0.4751,0.6414,0.0115,0.6418
+depression,SVI + Covariates,0.7289,0.0042,0.5838,0.4685,0.0082,0.4689
+diabetes,Covariates Only,0.5012,0.0074,0.3696,0.7486,0.0073,0.7489
+diabetes,HRSN + Covariates,0.3527,0.005,0.2684,0.8755,0.0038,0.8757
+diabetes,HRSN + SVI + Covariates,0.3478,0.0046,0.2644,0.879,0.0032,0.8792
+diabetes,SVI + Covariates,0.4852,0.006,0.3594,0.7644,0.0059,0.7647
+obesity,Covariates Only,0.5744,0.0073,0.4465,0.6698,0.0108,0.67
+obesity,HRSN + Covariates,0.4375,0.0036,0.3472,0.8085,0.0039,0.8087
+obesity,HRSN + SVI + Covariates,0.431,0.003,0.3405,0.8142,0.0038,0.8144
+obesity,SVI + Covariates,0.5263,0.0059,0.4138,0.7229,0.0084,0.7231
+stroke,Covariates Only,0.466,0.0089,0.3278,0.7827,0.0067,0.7829
+stroke,HRSN + Covariates,0.3367,0.0063,0.244,0.8865,0.0043,0.8867
+stroke,HRSN + SVI + Covariates,0.3304,0.0062,0.2398,0.8908,0.004,0.891
+stroke,SVI + Covariates,0.4547,0.0079,0.3213,0.7931,0.0056,0.7933

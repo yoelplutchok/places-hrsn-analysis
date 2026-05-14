@@ -1,0 +1,15 @@
+factor,factor_label,outcome,outcome_label,beta_std,se,pvalue,ci_lower,ci_upper,r_squared,adj_r_squared,n_obs,n_clusters,significant_05,significant_001,model_type,pvalue_fdr
+material_hardship,Material Hardship,diabetes,Diabetes,0.6519,0.0189,7.160161722527374e-261,0.6148,0.6889,0.8011,0.8011,60156,2294,True,True,individually_adjusted,5.012113205769162e-260
+material_hardship,Material Hardship,depression,Depression,0.2014,0.05,5.5680726468618825e-05,0.1035,0.2994,0.4117,0.4116,60156,2294,True,True,individually_adjusted,7.08663791418785e-05
+material_hardship,Material Hardship,casthma,Asthma,0.652,0.0461,1.8977825657804737e-45,0.5616,0.7423,0.6006,0.6006,60156,2294,True,True,individually_adjusted,4.428159320154439e-45
+material_hardship,Material Hardship,obesity,Obesity,0.3241,0.0353,4.0571191197869627e-20,0.255,0.3933,0.683,0.683,60156,2294,True,True,individually_adjusted,7.099958459627185e-20
+material_hardship,Material Hardship,chd,Coronary heart disease,0.475,0.019,2.1194717925633736e-138,0.4378,0.5121,0.7755,0.7755,60156,2294,True,True,individually_adjusted,7.418151273971808e-138
+material_hardship,Material Hardship,copd,COPD,0.6725,0.022,2.0243655660460377e-205,0.6294,0.7156,0.8244,0.8243,60156,2294,True,True,individually_adjusted,9.447039308214843e-205
+material_hardship,Material Hardship,stroke,Stroke,0.6529,0.0176,1.0414000374607674e-299,0.6183,0.6875,0.8346,0.8345,60156,2294,True,True,individually_adjusted,1.4579600524450746e-298
+social_isolation,Social Isolation,diabetes,Diabetes,-0.0075,0.0288,0.7931462962224689,-0.064,0.0489,0.748,0.7479,60156,2294,False,False,individually_adjusted,0.7931462962224689
+social_isolation,Social Isolation,depression,Depression,-0.1807,0.0834,0.030278820305886533,-0.3442,-0.0172,0.4163,0.4162,60156,2294,True,False,individually_adjusted,0.03260796032941626
+social_isolation,Social Isolation,casthma,Asthma,-0.154,0.0662,0.019968929888319616,-0.2836,-0.0243,0.5545,0.5545,60156,2294,True,False,individually_adjusted,0.02329708486970622
+social_isolation,Social Isolation,obesity,Obesity,-0.51,0.0449,5.9002941117689816e-30,-0.5979,-0.4221,0.747,0.7469,60156,2294,True,True,individually_adjusted,1.1800588223537963e-29
+social_isolation,Social Isolation,chd,Coronary heart disease,-0.2194,0.0123,3.319336528676179e-71,-0.2435,-0.1953,0.7616,0.7615,60156,2294,True,True,individually_adjusted,9.294142280293302e-71
+social_isolation,Social Isolation,copd,COPD,-0.1499,0.0195,1.5990742210415563e-14,-0.1882,-0.1116,0.7745,0.7744,60156,2294,True,True,individually_adjusted,2.487448788286865e-14
+social_isolation,Social Isolation,stroke,Stroke,-0.0778,0.013,2.40409383538123e-09,-0.1034,-0.0523,0.7831,0.783,60156,2294,True,True,individually_adjusted,3.3657313695337222e-09

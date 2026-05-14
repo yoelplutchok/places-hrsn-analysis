@@ -1,0 +1,8 @@
+factor,item,item_label,loading,std_err,z_value,p_value
+MaterialHardship,foodstamp,Food stamps/SNAP,1.0,,,
+MaterialHardship,foodinsecu,Food insecurity,0.9829,0.0015,660.3311,0.0
+MaterialHardship,housinsecu,Housing insecurity,0.6958,0.0012,570.6719,0.0
+MaterialHardship,shututility,Utility shutoff threat,0.4989,0.0011,443.9063,0.0
+MaterialHardship,lacktrpt,Transportation barriers,0.4604,0.0008,600.3198,0.0
+SocialIsolation,emotionspt,Lack of social support,1.0,,,
+SocialIsolation,loneliness,Loneliness/Social isolation,0.7889,0.0034,228.8537,0.0

@@ -1,0 +1,155 @@
+comparison,outcome,outcome_label,variable,variable_label,variable_type,raw_gap,endowment_contribution,endowment_ci_lower,endowment_ci_upper,pct_of_gap,mean_white,mean_minority,n_white,n_minority,total_pct_explained,level
+Black_vs_White,diabetes,Diabetes,loneliness,Loneliness/Social isolation,hrsn,7.0955,0.1394,0.0894,0.1917,1.96,32.3089,39.5464,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,foodstamp,Food stamps/SNAP,hrsn,7.0955,1.2836,1.123,1.4412,18.09,10.5907,32.6523,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,foodinsecu,Food insecurity,hrsn,7.0955,20.0699,19.5604,20.5389,282.86,12.9185,34.3278,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,housinsecu,Housing insecurity,hrsn,7.0955,-10.6719,-11.0413,-10.2688,-150.4,10.4715,26.6811,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,shututility,Utility shutoff threat,hrsn,7.0955,8.2976,8.04,8.5464,116.94,6.995,19.7644,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,lacktrpt,Transportation barriers,hrsn,7.0955,-13.376,-13.847,-12.9221,-188.52,7.3207,17.3111,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,emotionspt,Lack of social support,hrsn,7.0955,-1.0685,-1.1527,-0.9866,-15.06,22.1557,31.8644,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,pct_poverty,pct_poverty,demographic,7.0955,0.0073,-0.0496,0.0626,0.1,10.689,25.4076,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,pct_college,pct_college,demographic,7.0955,0.8029,0.7791,0.8275,11.32,36.3351,20.7713,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,pct_65plus,pct_65plus,demographic,7.0955,-0.2917,-0.3121,-0.2746,-4.11,19.0889,15.0582,38240,5436,68.57,ecological
+Black_vs_White,diabetes,Diabetes,median_age,median_age,demographic,7.0955,-0.3275,-0.3506,-0.3045,-4.61,41.9359,37.1617,38240,5436,68.57,ecological
+Black_vs_White,depression,Depression,loneliness,Loneliness/Social isolation,hrsn,-2.6399,3.4821,3.3884,3.5857,-131.9,32.3089,39.5464,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,foodstamp,Food stamps/SNAP,hrsn,-2.6399,4.0548,3.8579,4.2721,-153.59,10.5907,32.6523,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,foodinsecu,Food insecurity,hrsn,-2.6399,-1.4897,-2.032,-0.914,56.43,12.9185,34.3278,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,housinsecu,Housing insecurity,hrsn,-2.6399,-19.8503,-20.4423,-19.3744,751.92,10.4715,26.6811,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,shututility,Utility shutoff threat,hrsn,-2.6399,12.169,11.7609,12.5418,-460.96,6.995,19.7644,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,lacktrpt,Transportation barriers,hrsn,-2.6399,3.0241,2.5246,3.5198,-114.55,7.3207,17.3111,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,emotionspt,Lack of social support,hrsn,-2.6399,-2.4994,-2.6363,-2.3637,94.68,22.1557,31.8644,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,pct_poverty,pct_poverty,demographic,-2.6399,0.2429,0.1685,0.3232,-9.2,10.689,25.4076,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,pct_college,pct_college,demographic,-2.6399,1.1964,1.1596,1.2377,-45.32,36.3351,20.7713,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,pct_65plus,pct_65plus,demographic,-2.6399,0.2875,0.2612,0.3146,-10.89,19.0889,15.0582,38240,5436,-31.78,ecological
+Black_vs_White,depression,Depression,median_age,median_age,demographic,-2.6399,0.2215,0.1911,0.2552,-8.39,41.9359,37.1617,38240,5436,-31.78,ecological
+Black_vs_White,casthma,Asthma,loneliness,Loneliness/Social isolation,hrsn,1.9543,0.4023,0.3741,0.4334,20.58,32.3089,39.5464,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,foodstamp,Food stamps/SNAP,hrsn,1.9543,3.2245,3.1425,3.3095,165.0,10.5907,32.6523,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,foodinsecu,Food insecurity,hrsn,1.9543,-4.8581,-5.0543,-4.6455,-248.59,12.9185,34.3278,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,housinsecu,Housing insecurity,hrsn,1.9543,-1.6041,-1.781,-1.4383,-82.08,10.4715,26.6811,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,shututility,Utility shutoff threat,hrsn,1.9543,2.8818,2.7574,2.9895,147.46,6.995,19.7644,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,lacktrpt,Transportation barriers,hrsn,1.9543,0.9388,0.7308,1.1653,48.04,7.3207,17.3111,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,emotionspt,Lack of social support,hrsn,1.9543,-0.13,-0.1763,-0.0857,-6.65,22.1557,31.8644,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,pct_poverty,pct_poverty,demographic,1.9543,0.0535,0.0275,0.0837,2.74,10.689,25.4076,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,pct_college,pct_college,demographic,1.9543,0.3942,0.3816,0.4063,20.17,36.3351,20.7713,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,pct_65plus,pct_65plus,demographic,1.9543,0.006,-0.0009,0.0127,0.31,19.0889,15.0582,38240,5436,69.35,ecological
+Black_vs_White,casthma,Asthma,median_age,median_age,demographic,1.9543,0.0464,0.0371,0.0568,2.37,41.9359,37.1617,38240,5436,69.35,ecological
+Black_vs_White,obesity,Obesity,loneliness,Loneliness/Social isolation,hrsn,9.8702,-0.7854,-0.9064,-0.6682,-7.96,32.3089,39.5464,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,foodstamp,Food stamps/SNAP,hrsn,9.8702,-0.3573,-0.6736,-0.0086,-3.62,10.5907,32.6523,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,foodinsecu,Food insecurity,hrsn,9.8702,18.5059,17.6804,19.3038,187.49,12.9185,34.3278,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,housinsecu,Housing insecurity,hrsn,9.8702,-17.4337,-18.1751,-16.7614,-176.63,10.4715,26.6811,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,shututility,Utility shutoff threat,hrsn,9.8702,18.4314,17.9271,19.02,186.74,6.995,19.7644,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,lacktrpt,Transportation barriers,hrsn,9.8702,-12.0542,-12.8213,-11.2826,-122.13,7.3207,17.3111,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,emotionspt,Lack of social support,hrsn,9.8702,-4.0173,-4.2154,-3.8204,-40.7,22.1557,31.8644,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,pct_poverty,pct_poverty,demographic,9.8702,0.1225,0.0237,0.2416,1.24,10.689,25.4076,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,pct_college,pct_college,demographic,9.8702,3.3058,3.2185,3.3919,33.49,36.3351,20.7713,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,pct_65plus,pct_65plus,demographic,9.8702,0.3491,0.3141,0.38,3.54,19.0889,15.0582,38240,5436,63.04,ecological
+Black_vs_White,obesity,Obesity,median_age,median_age,demographic,9.8702,0.1549,0.1163,0.2017,1.57,41.9359,37.1617,38240,5436,63.04,ecological
+Black_vs_White,chd,Coronary heart disease,loneliness,Loneliness/Social isolation,hrsn,0.8446,-0.3613,-0.3902,-0.3312,-42.78,32.3089,39.5464,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,foodstamp,Food stamps/SNAP,hrsn,0.8446,1.885,1.7912,1.9786,223.18,10.5907,32.6523,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,foodinsecu,Food insecurity,hrsn,0.8446,8.3439,8.1162,8.5859,987.9,12.9185,34.3278,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,housinsecu,Housing insecurity,hrsn,0.8446,-7.854,-8.0642,-7.6322,-929.9,10.4715,26.6811,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,shututility,Utility shutoff threat,hrsn,0.8446,3.2092,3.0601,3.3623,379.97,6.995,19.7644,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,lacktrpt,Transportation barriers,hrsn,0.8446,-4.4207,-4.6671,-4.1618,-523.41,7.3207,17.3111,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,emotionspt,Lack of social support,hrsn,0.8446,-0.255,-0.3004,-0.209,-30.19,22.1557,31.8644,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,pct_poverty,pct_poverty,demographic,0.8446,0.21,0.1781,0.2404,24.86,10.689,25.4076,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,pct_college,pct_college,demographic,0.8446,0.6615,0.6436,0.6781,78.32,36.3351,20.7713,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,pct_65plus,pct_65plus,demographic,0.8446,-0.3374,-0.3552,-0.3209,-39.95,19.0889,15.0582,38240,5436,112.06,ecological
+Black_vs_White,chd,Coronary heart disease,median_age,median_age,demographic,0.8446,-0.1347,-0.1477,-0.1218,-15.95,41.9359,37.1617,38240,5436,112.06,ecological
+Black_vs_White,copd,COPD,loneliness,Loneliness/Social isolation,hrsn,2.1606,0.0441,0.0112,0.0807,2.04,32.3089,39.5464,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,foodstamp,Food stamps/SNAP,hrsn,2.1606,2.7078,2.586,2.8252,125.33,10.5907,32.6523,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,foodinsecu,Food insecurity,hrsn,2.1606,10.4083,10.1087,10.7303,481.74,12.9185,34.3278,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,housinsecu,Housing insecurity,hrsn,2.1606,-12.0482,-12.3195,-11.746,-557.63,10.4715,26.6811,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,shututility,Utility shutoff threat,hrsn,2.1606,7.1891,6.9948,7.3832,332.74,6.995,19.7644,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,lacktrpt,Transportation barriers,hrsn,2.1606,-5.7228,-6.0227,-5.4094,-264.87,7.3207,17.3111,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,emotionspt,Lack of social support,hrsn,2.1606,-0.4364,-0.5004,-0.3786,-20.2,22.1557,31.8644,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,pct_poverty,pct_poverty,demographic,2.1606,0.3459,0.3084,0.3849,16.01,10.689,25.4076,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,pct_college,pct_college,demographic,2.1606,1.0274,1.0025,1.0515,47.55,36.3351,20.7713,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,pct_65plus,pct_65plus,demographic,2.1606,-0.1677,-0.1813,-0.1568,-7.76,19.0889,15.0582,38240,5436,147.85,ecological
+Black_vs_White,copd,COPD,median_age,median_age,demographic,2.1606,-0.1532,-0.1675,-0.1395,-7.09,41.9359,37.1617,38240,5436,147.85,ecological
+Black_vs_White,stroke,Stroke,loneliness,Loneliness/Social isolation,hrsn,2.067,-0.2175,-0.233,-0.202,-10.52,32.3089,39.5464,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,foodstamp,Food stamps/SNAP,hrsn,2.067,0.9522,0.8979,1.0048,46.06,10.5907,32.6523,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,foodinsecu,Food insecurity,hrsn,2.067,4.7818,4.631,4.9383,231.34,12.9185,34.3278,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,housinsecu,Housing insecurity,hrsn,2.067,-3.7043,-3.8376,-3.5656,-179.21,10.4715,26.6811,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,shututility,Utility shutoff threat,hrsn,2.067,1.9944,1.8965,2.088,96.49,6.995,19.7644,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,lacktrpt,Transportation barriers,hrsn,2.067,-2.4816,-2.6444,-2.3151,-120.06,7.3207,17.3111,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,emotionspt,Lack of social support,hrsn,2.067,0.0239,-0.0037,0.0517,1.16,22.1557,31.8644,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,pct_poverty,pct_poverty,demographic,2.067,0.029,0.0112,0.0473,1.4,10.689,25.4076,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,pct_college,pct_college,demographic,2.067,0.2655,0.2576,0.2727,12.84,36.3351,20.7713,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,pct_65plus,pct_65plus,demographic,2.067,-0.1657,-0.1748,-0.1569,-8.02,19.0889,15.0582,38240,5436,67.93,ecological
+Black_vs_White,stroke,Stroke,median_age,median_age,demographic,2.067,-0.0735,-0.0805,-0.0668,-3.56,41.9359,37.1617,38240,5436,67.93,ecological
+Hispanic_vs_White,diabetes,Diabetes,loneliness,Loneliness/Social isolation,hrsn,2.6208,0.2633,0.2142,0.3115,10.05,32.3089,39.5593,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,foodstamp,Food stamps/SNAP,hrsn,2.6208,2.3136,2.187,2.4373,88.28,10.5907,27.3053,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,foodinsecu,Food insecurity,hrsn,2.6208,16.0212,15.6657,16.3879,611.31,12.9185,31.9295,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,housinsecu,Housing insecurity,hrsn,2.6208,-7.9018,-8.2026,-7.5779,-301.51,10.4715,25.3416,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,shututility,Utility shutoff threat,hrsn,2.6208,3.4759,3.3634,3.59,132.63,6.995,13.3884,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,lacktrpt,Transportation barriers,hrsn,2.6208,-11.2321,-11.5923,-10.8886,-428.58,7.3207,15.2636,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,emotionspt,Lack of social support,hrsn,2.6208,-0.9719,-1.049,-0.8989,-37.09,22.1557,31.7518,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,pct_poverty,pct_poverty,demographic,2.6208,0.0452,0.0167,0.0729,1.73,10.689,19.1501,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,pct_college,pct_college,demographic,2.6208,1.0685,1.0453,1.0912,40.77,36.3351,16.2687,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,pct_65plus,pct_65plus,demographic,2.6208,-0.56,-0.5856,-0.5337,-21.37,19.0889,11.2889,38240,5201,76.39,ecological
+Hispanic_vs_White,diabetes,Diabetes,median_age,median_age,demographic,2.6208,-0.5197,-0.5498,-0.4915,-19.83,41.9359,33.7491,38240,5201,76.39,ecological
+Hispanic_vs_White,depression,Depression,loneliness,Loneliness/Social isolation,hrsn,-3.2075,3.7186,3.6171,3.8253,-115.93,32.3089,39.5593,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,foodstamp,Food stamps/SNAP,hrsn,-3.2075,4.1983,4.0236,4.3858,-130.89,10.5907,27.3053,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,foodinsecu,Food insecurity,hrsn,-3.2075,-4.3184,-4.768,-3.8816,134.63,12.9185,31.9295,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,housinsecu,Housing insecurity,hrsn,-3.2075,-16.1661,-16.6409,-15.7152,504.01,10.4715,25.3416,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,shututility,Utility shutoff threat,hrsn,-3.2075,6.243,6.0516,6.4365,-194.64,6.995,13.3884,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,lacktrpt,Transportation barriers,hrsn,-3.2075,4.3741,3.9954,4.7882,-136.37,7.3207,15.2636,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,emotionspt,Lack of social support,hrsn,-3.2075,-3.3562,-3.4824,-3.2122,104.63,22.1557,31.7518,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,pct_poverty,pct_poverty,demographic,-3.2075,-0.1786,-0.2212,-0.1399,5.57,10.689,19.1501,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,pct_college,pct_college,demographic,-3.2075,1.401,1.3603,1.4406,-43.68,36.3351,16.2687,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,pct_65plus,pct_65plus,demographic,-3.2075,0.4776,0.4326,0.5171,-14.89,19.0889,11.2889,38240,5201,102.93,ecological
+Hispanic_vs_White,depression,Depression,median_age,median_age,demographic,-3.2075,0.3054,0.2556,0.3587,-9.52,41.9359,33.7491,38240,5201,102.93,ecological
+Hispanic_vs_White,casthma,Asthma,loneliness,Loneliness/Social isolation,hrsn,-0.6035,0.3234,0.2961,0.3511,-53.59,32.3089,39.5593,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,foodstamp,Food stamps/SNAP,hrsn,-0.6035,2.2228,2.1605,2.2887,-368.33,10.5907,27.3053,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,foodinsecu,Food insecurity,hrsn,-0.6035,-4.3368,-4.5113,-4.1779,718.62,12.9185,31.9295,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,housinsecu,Housing insecurity,hrsn,-0.6035,-2.0726,-2.2211,-1.9308,343.44,10.4715,25.3416,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,shututility,Utility shutoff threat,hrsn,-0.6035,2.0991,2.0295,2.1709,-347.82,6.995,13.3884,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,lacktrpt,Transportation barriers,hrsn,-0.6035,1.1347,1.0158,1.2679,-188.03,7.3207,15.2636,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,emotionspt,Lack of social support,hrsn,-0.6035,-0.1402,-0.1771,-0.1012,23.23,22.1557,31.7518,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,pct_poverty,pct_poverty,demographic,-0.6035,-0.0105,-0.0254,0.0041,1.74,10.689,19.1501,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,pct_college,pct_college,demographic,-0.6035,0.4326,0.4199,0.4438,-71.69,36.3351,16.2687,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,pct_65plus,pct_65plus,demographic,-0.6035,0.0233,0.0115,0.0355,-3.86,19.0889,11.2889,38240,5201,47.17,ecological
+Hispanic_vs_White,casthma,Asthma,median_age,median_age,demographic,-0.6035,0.0394,0.0248,0.0533,-6.53,41.9359,33.7491,38240,5201,47.17,ecological
+Hispanic_vs_White,obesity,Obesity,loneliness,Loneliness/Social isolation,hrsn,1.1056,-0.9669,-1.0722,-0.8543,-87.45,32.3089,39.5593,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,foodstamp,Food stamps/SNAP,hrsn,1.1056,1.7921,1.5429,2.0312,162.09,10.5907,27.3053,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,foodinsecu,Food insecurity,hrsn,1.1056,12.5283,11.7813,13.28,1133.14,12.9185,31.9295,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,housinsecu,Housing insecurity,hrsn,1.1056,-12.7511,-13.3382,-12.1073,-1153.3,10.4715,25.3416,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,shututility,Utility shutoff threat,hrsn,1.1056,9.4297,9.1567,9.7136,852.88,6.995,13.3884,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,lacktrpt,Transportation barriers,hrsn,1.1056,-9.2598,-9.8849,-8.6843,-837.52,7.3207,15.2636,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,emotionspt,Lack of social support,hrsn,1.1056,-4.4125,-4.5991,-4.2138,-399.09,22.1557,31.7518,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,pct_poverty,pct_poverty,demographic,1.1056,-0.0541,-0.1067,0.0012,-4.9,10.689,19.1501,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,pct_college,pct_college,demographic,1.1056,4.1709,4.0883,4.247,377.24,36.3351,16.2687,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,pct_65plus,pct_65plus,demographic,1.1056,0.5928,0.5406,0.6504,53.61,19.0889,11.2889,38240,5201,130.79,ecological
+Hispanic_vs_White,obesity,Obesity,median_age,median_age,demographic,1.1056,0.3767,0.3047,0.4438,34.08,41.9359,33.7491,38240,5201,130.79,ecological
+Hispanic_vs_White,chd,Coronary heart disease,loneliness,Loneliness/Social isolation,hrsn,-0.7094,-0.3031,-0.327,-0.2777,42.73,32.3089,39.5593,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,foodstamp,Food stamps/SNAP,hrsn,-0.7094,2.159,2.0816,2.239,-304.35,10.5907,27.3053,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,foodinsecu,Food insecurity,hrsn,-0.7094,6.7759,6.5943,6.9968,-955.2,12.9185,31.9295,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,housinsecu,Housing insecurity,hrsn,-0.7094,-6.7262,-6.9117,-6.5176,948.19,10.4715,25.3416,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,shututility,Utility shutoff threat,hrsn,-0.7094,1.7942,1.7242,1.8712,-252.93,6.995,13.3884,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,lacktrpt,Transportation barriers,hrsn,-0.7094,-4.1867,-4.3943,-3.9759,590.2,7.3207,15.2636,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,emotionspt,Lack of social support,hrsn,-0.7094,-0.267,-0.3124,-0.2255,37.64,22.1557,31.7518,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,pct_poverty,pct_poverty,demographic,-0.7094,0.118,0.1009,0.1359,-16.63,10.689,19.1501,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,pct_college,pct_college,demographic,-0.7094,0.8342,0.8177,0.8492,-117.6,36.3351,16.2687,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,pct_65plus,pct_65plus,demographic,-0.7094,-0.6731,-0.6918,-0.6538,94.88,19.0889,11.2889,38240,5201,96.82,ecological
+Hispanic_vs_White,chd,Coronary heart disease,median_age,median_age,demographic,-0.7094,-0.212,-0.2301,-0.195,29.89,41.9359,33.7491,38240,5201,96.82,ecological
+Hispanic_vs_White,copd,COPD,loneliness,Loneliness/Social isolation,hrsn,-1.0217,0.2005,0.1726,0.2319,-19.62,32.3089,39.5593,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,foodstamp,Food stamps/SNAP,hrsn,-1.0217,3.0038,2.9112,3.1105,-294.01,10.5907,27.3053,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,foodinsecu,Food insecurity,hrsn,-1.0217,8.392,8.1494,8.6674,-821.41,12.9185,31.9295,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,housinsecu,Housing insecurity,hrsn,-1.0217,-11.2554,-11.5058,-10.9945,1101.68,10.4715,25.3416,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,shututility,Utility shutoff threat,hrsn,-1.0217,4.3209,4.2111,4.4453,-422.93,6.995,13.3884,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,lacktrpt,Transportation barriers,hrsn,-1.0217,-5.5401,-5.785,-5.2884,542.27,7.3207,15.2636,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,emotionspt,Lack of social support,hrsn,-1.0217,-0.235,-0.2893,-0.1804,23.01,22.1557,31.7518,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,pct_poverty,pct_poverty,demographic,-1.0217,0.18,0.1567,0.202,-17.62,10.689,19.1501,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,pct_college,pct_college,demographic,-1.0217,1.2881,1.2635,1.3115,-126.08,36.3351,16.2687,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,pct_65plus,pct_65plus,demographic,-1.0217,-0.3384,-0.357,-0.3212,33.12,19.0889,11.2889,38240,5201,22.81,ecological
+Hispanic_vs_White,copd,COPD,median_age,median_age,demographic,-1.0217,-0.2494,-0.272,-0.2294,24.41,41.9359,33.7491,38240,5201,22.81,ecological
+Hispanic_vs_White,stroke,Stroke,loneliness,Loneliness/Social isolation,hrsn,0.088,-0.1507,-0.1631,-0.1369,-171.24,32.3089,39.5593,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,foodstamp,Food stamps/SNAP,hrsn,0.088,0.9803,0.9397,1.0237,1113.61,10.5907,27.3053,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,foodinsecu,Food insecurity,hrsn,0.088,3.5053,3.4088,3.6207,3982.13,12.9185,31.9295,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,housinsecu,Housing insecurity,hrsn,0.088,-2.8323,-2.9336,-2.719,-3217.53,10.4715,25.3416,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,shututility,Utility shutoff threat,hrsn,0.088,0.8904,0.8473,0.9351,1011.52,6.995,13.3884,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,lacktrpt,Transportation barriers,hrsn,0.088,-2.1706,-2.2866,-2.0553,-2465.84,7.3207,15.2636,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,emotionspt,Lack of social support,hrsn,0.088,0.033,0.0103,0.0558,37.49,22.1557,31.7518,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,pct_poverty,pct_poverty,demographic,0.088,0.0591,0.0497,0.0684,67.12,10.689,19.1501,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,pct_college,pct_college,demographic,0.088,0.3827,0.3747,0.39,434.76,36.3351,16.2687,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,pct_65plus,pct_65plus,demographic,0.088,-0.3136,-0.3234,-0.3042,-356.25,19.0889,11.2889,38240,5201,310.34,ecological
+Hispanic_vs_White,stroke,Stroke,median_age,median_age,demographic,0.088,-0.1104,-0.1198,-0.1012,-125.44,41.9359,33.7491,38240,5201,310.34,ecological

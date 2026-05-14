@@ -1,0 +1,22 @@
+outcome,outcome_label,model,r_squared,adj_r_squared,aic,n_predictors,n_obs
+diabetes,Diabetes,SVI_only,0.7647,0.7646,83358.2,10.0,60128
+diabetes,Diabetes,HRSN_only,0.8757,0.8757,44986.8,13.0,60128
+diabetes,Diabetes,Combined,0.8792,0.8791,43284.0,17.0,60128
+depression,Depression,SVI_only,0.4689,0.4688,132559.8,10.0,60128
+depression,Depression,HRSN_only,0.6214,0.6214,112204.2,13.0,60128
+depression,Depression,Combined,0.6418,0.6417,108893.4,17.0,60128
+casthma,Asthma,SVI_only,0.5739,0.5738,119323.8,10.0,60128
+casthma,Asthma,HRSN_only,0.7271,0.727,92537.1,13.0,60128
+casthma,Asthma,Combined,0.7318,0.7317,91490.4,17.0,60128
+obesity,Obesity,SVI_only,0.7231,0.7231,93355.8,10.0,60128
+obesity,Obesity,HRSN_only,0.8087,0.8086,71137.8,13.0,60128
+obesity,Obesity,Combined,0.8144,0.8144,69313.6,17.0,60128
+chd,Coronary heart disease,SVI_only,0.7649,0.7649,83110.5,10.0,60128
+chd,Coronary heart disease,HRSN_only,0.852,0.8519,55298.8,13.0,60128
+chd,Coronary heart disease,Combined,0.8598,0.8597,52049.4,17.0,60128
+copd,COPD,SVI_only,0.788,0.788,77077.3,10.0,60128
+copd,COPD,HRSN_only,0.8941,0.8941,35357.9,13.0,60128
+copd,COPD,Combined,0.905,0.905,28825.7,17.0,60128
+stroke,Stroke,SVI_only,0.7933,0.7933,75418.9,10.0,60128
+stroke,Stroke,HRSN_only,0.8867,0.8867,39273.5,13.0,60128
+stroke,Stroke,Combined,0.891,0.8909,36984.9,17.0,60128

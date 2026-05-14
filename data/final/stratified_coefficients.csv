@@ -1,0 +1,99 @@
+stratum_var,stratum_label,stratum_value,stratum_name,hrsn_measure,hrsn_label,outcome,outcome_label,beta,se,pvalue,ci_lower,ci_upper,r_squared,n_obs
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,diabetes,Diabetes,-0.0489,0.0296,0.09889139569530346,-0.1069,0.0092,0.7361,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,depression,Depression,0.1491,0.0828,0.0718806014864787,-0.0133,0.3114,0.4234,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,casthma,Asthma,-0.064,0.0707,0.3658219791917905,-0.2026,0.0747,0.5989,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,obesity,Obesity,-0.4004,0.0422,2.4311890788570305e-21,-0.4831,-0.3176,0.716,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,chd,Coronary heart disease,-0.2149,0.0156,5.390106517677967e-43,-0.2455,-0.1842,0.7679,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,copd,COPD,-0.1389,0.0178,6.957813720282589e-15,-0.1739,-0.1039,0.7769,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,loneliness,Loneliness/Social isolation,stroke,Stroke,-0.1224,0.0183,2.2478229259922755e-11,-0.1583,-0.0865,0.785,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,diabetes,Diabetes,0.5405,0.0227,1.4114168001811466e-125,0.4961,0.585,0.7909,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,depression,Depression,0.2301,0.0499,3.944745240870342e-06,0.1323,0.3278,0.4241,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,casthma,Asthma,0.5334,0.0532,1.1695452533804357e-23,0.4292,0.6377,0.6437,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,obesity,Obesity,0.1902,0.0302,2.9407508343395205e-10,0.131,0.2493,0.6614,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,chd,Coronary heart disease,0.439,0.0205,1.1986843981377107e-101,0.3988,0.4792,0.7841,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,copd,COPD,0.5694,0.0248,2.471210977055151e-116,0.5207,0.6181,0.8264,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodstamp,Food stamps/SNAP,stroke,Stroke,0.5589,0.0179,1.098959403165646e-214,0.5238,0.5939,0.8385,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,diabetes,Diabetes,0.7083,0.0186,0.0,0.6718,0.7447,0.8012,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,depression,Depression,-0.1043,0.1028,0.31039554290548044,-0.3058,0.0972,0.4169,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,casthma,Asthma,0.2964,0.0747,7.305509043330521e-05,0.1499,0.4429,0.6073,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,obesity,Obesity,0.1689,0.0799,0.03454551519205184,0.0123,0.3255,0.6585,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,chd,Coronary heart disease,0.4327,0.0375,8.178503234106363e-31,0.3592,0.5062,0.7729,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,copd,COPD,0.5676,0.051,9.964614618747077e-29,0.4676,0.6676,0.8085,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,foodinsecu,Food insecurity,stroke,Stroke,0.6145,0.0317,1.7293050208842212e-83,0.5523,0.6767,0.8286,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,diabetes,Diabetes,0.5552,0.024,1.2697506182438509e-118,0.5082,0.6022,0.7704,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,depression,Depression,-0.056,0.0984,0.5690489696382532,-0.2489,0.1368,0.4161,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,casthma,Asthma,0.469,0.0748,3.5668322189927475e-10,0.3225,0.6156,0.6189,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,obesity,Obesity,0.1709,0.0728,0.018903024211833045,0.0282,0.3137,0.6582,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,chd,Coronary heart disease,0.3052,0.0326,7.560330518455017e-21,0.2414,0.3691,0.7599,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,copd,COPD,0.494,0.0397,1.560529235559506e-35,0.4162,0.5718,0.7951,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,housinsecu,Housing insecurity,stroke,Stroke,0.5077,0.032,1.2032621279372307e-56,0.445,0.5704,0.8083,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,diabetes,Diabetes,0.6366,0.027,3.693982081959388e-123,0.5837,0.6895,0.8002,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,depression,Depression,0.4321,0.04,3.560911995999359e-27,0.3536,0.5105,0.4406,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,casthma,Asthma,0.676,0.0384,2.169133237338308e-69,0.6007,0.7512,0.6599,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,obesity,Obesity,0.5785,0.045,7.730970822662816e-38,0.4903,0.6667,0.704,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,chd,Coronary heart disease,0.541,0.0182,1.2313020351389092e-193,0.5052,0.5767,0.7935,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,copd,COPD,0.7452,0.0169,0.0,0.712,0.7784,0.8514,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,shututility,Utility shutoff threat,stroke,Stroke,0.6257,0.018,1.8234376697658147e-265,0.5905,0.6609,0.8417,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,diabetes,Diabetes,0.4998,0.0176,6.544386972219532e-177,0.4653,0.5343,0.7698,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,depression,Depression,0.254,0.0453,2.0257101414248275e-08,0.1652,0.3427,0.4232,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,casthma,Asthma,0.5615,0.0416,1.6515010418750578e-41,0.4799,0.643,0.6347,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,obesity,Obesity,0.2217,0.0315,1.9533553632998685e-12,0.1599,0.2834,0.6613,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,chd,Coronary heart disease,0.3574,0.0157,1.3745974431863514e-114,0.3266,0.3882,0.7664,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,copd,COPD,0.5309,0.0211,1.9782276746397915e-139,0.4895,0.5723,0.8054,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,lacktrpt,Transportation barriers,stroke,Stroke,0.5297,0.0189,5.429254134861153e-173,0.4927,0.5667,0.8177,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,diabetes,Diabetes,0.0675,0.0292,0.020638212325129617,0.0103,0.1246,0.7367,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,depression,Depression,-0.4868,0.0823,3.3192098391765147e-09,-0.6481,-0.3255,0.4847,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,casthma,Asthma,-0.2902,0.0618,2.631082514275588e-06,-0.4113,-0.1691,0.6227,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,obesity,Obesity,-0.5199,0.0518,9.753087838651295e-24,-0.6213,-0.4184,0.7415,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,chd,Coronary heart disease,-0.1516,0.0182,8.217386427890886e-17,-0.1873,-0.1159,0.7575,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,copd,COPD,-0.1439,0.026,2.9145125079659466e-08,-0.1948,-0.0931,0.7762,48798
+medicaid_expanded,Medicaid Expansion,1,Expanded,emotionspt,Lack of social support,stroke,Stroke,0.0073,0.0152,0.6292539645891096,-0.0224,0.0371,0.7788,48798
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,diabetes,Diabetes,-0.1385,0.029,1.836913283845478e-06,-0.1955,-0.0816,0.7797,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,depression,Depression,-0.1977,0.0698,0.004629943350359939,-0.3346,-0.0609,0.4238,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,casthma,Asthma,-0.1437,0.0491,0.0034100404221274563,-0.2399,-0.0475,0.5526,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,obesity,Obesity,-0.2092,0.0483,1.4706945311557456e-05,-0.3039,-0.1146,0.7273,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,chd,Coronary heart disease,-0.2449,0.0223,3.691826231110438e-28,-0.2886,-0.2013,0.7468,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,copd,COPD,-0.1281,0.0174,1.6699756697931893e-13,-0.1622,-0.0941,0.7581,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,loneliness,Loneliness/Social isolation,stroke,Stroke,-0.2041,0.0204,1.516057592651804e-23,-0.2441,-0.1641,0.7849,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,diabetes,Diabetes,0.5691,0.0475,3.8367202615134937e-33,0.4761,0.6621,0.8248,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,depression,Depression,0.2456,0.035,2.143475904447004e-12,0.1771,0.3142,0.4219,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,casthma,Asthma,0.7331,0.0571,1.114400228243372e-37,0.6211,0.845,0.6899,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,obesity,Obesity,0.4559,0.0305,1.4496877323556412e-50,0.3961,0.5156,0.7612,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,chd,Coronary heart disease,0.461,0.057,6.061424158857646e-16,0.3493,0.5727,0.7681,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,copd,COPD,0.5469,0.0687,1.7453680546298433e-15,0.4122,0.6816,0.8122,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodstamp,Food stamps/SNAP,stroke,Stroke,0.6292,0.0606,3.103482775250596e-25,0.5103,0.748,0.8344,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,diabetes,Diabetes,0.9166,0.0231,0.0,0.8714,0.9618,0.8553,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,depression,Depression,0.1048,0.0346,0.002451949631170958,0.037,0.1726,0.4041,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,casthma,Asthma,0.3224,0.0531,1.240485427005697e-09,0.2184,0.4264,0.5607,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,obesity,Obesity,0.5429,0.0246,1.3966119950882993e-107,0.4946,0.5911,0.7549,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,chd,Coronary heart disease,0.6541,0.022,3.2072598438993594e-194,0.611,0.6973,0.7782,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,copd,COPD,0.8575,0.0256,3.7763533273445504e-245,0.8073,0.9078,0.8435,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,foodinsecu,Food insecurity,stroke,Stroke,0.894,0.0256,1.0955068209060036e-266,0.8438,0.9443,0.8498,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,diabetes,Diabetes,0.8698,0.0335,9.127651411036415e-149,0.8042,0.9354,0.8309,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,depression,Depression,-0.118,0.0425,0.00550571809503465,-0.2013,-0.0347,0.4041,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,casthma,Asthma,0.4018,0.0526,2.151500227620396e-14,0.2988,0.5049,0.5643,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,obesity,Obesity,0.6032,0.0402,5.74187805561376e-51,0.5245,0.6819,0.7529,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,chd,Coronary heart disease,0.5185,0.0304,3.947828592244249e-65,0.4589,0.5781,0.7522,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,copd,COPD,0.7723,0.033,1.9916371192775384e-121,0.7077,0.8369,0.8097,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,housinsecu,Housing insecurity,stroke,Stroke,0.817,0.036,2.5810599262681315e-114,0.7465,0.8875,0.823,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,diabetes,Diabetes,0.7763,0.0259,8.960442058874911e-197,0.7255,0.8271,0.8453,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,depression,Depression,0.0008,0.038,0.9825257189888342,-0.0737,0.0753,0.4019,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,casthma,Asthma,0.337,0.036,7.041685218873701e-21,0.2666,0.4075,0.5666,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,obesity,Obesity,0.5179,0.0248,7.707299691532563e-97,0.4693,0.5665,0.7601,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,chd,Coronary heart disease,0.568,0.0231,1.6595406018043908e-133,0.5228,0.6133,0.7741,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,copd,COPD,0.7512,0.0251,2.92691076863048e-197,0.7021,0.8004,0.8378,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,shututility,Utility shutoff threat,stroke,Stroke,0.7862,0.029,1.2476914892152628e-161,0.7293,0.8431,0.8455,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,diabetes,Diabetes,0.6093,0.0304,4.103800307157321e-89,0.5496,0.6689,0.8153,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,depression,Depression,0.1239,0.0296,2.8227961404367564e-05,0.0659,0.182,0.4055,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,casthma,Asthma,0.4272,0.0474,1.9316690264489402e-19,0.3343,0.5201,0.5783,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,obesity,Obesity,0.4323,0.0262,5.597142190624001e-61,0.3808,0.4837,0.742,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,chd,Coronary heart disease,0.4343,0.0259,5.814098851731717e-63,0.3834,0.4851,0.753,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,copd,COPD,0.6504,0.026,3.476114330465376e-138,0.5995,0.7014,0.8121,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,lacktrpt,Transportation barriers,stroke,Stroke,0.6493,0.0309,4.110692571702632e-98,0.5888,0.7098,0.8196,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,diabetes,Diabetes,0.3047,0.0353,6.391150520870932e-18,0.2355,0.374,0.7837,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,depression,Depression,-0.4194,0.0909,3.976210962808894e-06,-0.5976,-0.2412,0.4383,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,casthma,Asthma,-0.4819,0.0665,4.261138329383072e-13,-0.6123,-0.3516,0.5826,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,obesity,Obesity,0.0626,0.0483,0.19502817607775547,-0.0321,0.1573,0.7092,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,chd,Coronary heart disease,-0.0043,0.0269,0.8734776854683606,-0.057,0.0484,0.7276,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,copd,COPD,0.1711,0.0305,2.0328235567807415e-08,0.1113,0.2309,0.7562,11358
+medicaid_expanded,Medicaid Expansion,0,Non-expanded,emotionspt,Lack of social support,stroke,Stroke,0.1667,0.0304,4.171387494830628e-08,0.1071,0.2263,0.7768,11358

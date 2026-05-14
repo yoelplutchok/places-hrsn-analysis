@@ -1,0 +1,50 @@
+hrsn_measure,hrsn_label,outcome,outcome_label,ecological_beta,ecological_significant,contextual_or,contextual_log_or,contextual_significant,direction_match
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,-0.0667,True,1.0071,0.007,False,False
+loneliness,Loneliness/Social isolation,depression,Depression,0.086,False,0.9909,-0.0091,False,False
+loneliness,Loneliness/Social isolation,casthma,Asthma,-0.0553,False,1.0579,0.0563,True,False
+loneliness,Loneliness/Social isolation,obesity,Obesity,-0.3809,True,0.9293,-0.0733,True,True
+loneliness,Loneliness/Social isolation,chd,Coronary heart disease,-0.2188,True,1.0082,0.0081,False,False
+loneliness,Loneliness/Social isolation,copd,COPD,-0.136,True,1.0111,0.0111,False,False
+loneliness,Loneliness/Social isolation,stroke,Stroke,-0.1328,True,1.0123,0.0122,False,False
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,0.5013,True,1.014,0.0139,False,True
+foodstamp,Food stamps/SNAP,depression,Depression,0.2496,True,0.9916,-0.0085,False,False
+foodstamp,Food stamps/SNAP,casthma,Asthma,0.6438,True,1.0772,0.0743,True,True
+foodstamp,Food stamps/SNAP,obesity,Obesity,0.2086,True,0.954,-0.0471,False,False
+foodstamp,Food stamps/SNAP,chd,Coronary heart disease,0.4127,True,1.06,0.0583,True,True
+foodstamp,Food stamps/SNAP,copd,COPD,0.5427,True,1.046,0.045,False,True
+foodstamp,Food stamps/SNAP,stroke,Stroke,0.5395,True,1.0108,0.0107,False,True
+foodinsecu,Food insecurity,diabetes,Diabetes,0.7325,True,1.0389,0.0382,False,True
+foodinsecu,Food insecurity,depression,Depression,-0.0516,False,0.9837,-0.0164,False,True
+foodinsecu,Food insecurity,casthma,Asthma,0.3473,True,1.0411,0.0402,True,True
+foodinsecu,Food insecurity,obesity,Obesity,0.2198,True,0.9448,-0.0568,False,False
+foodinsecu,Food insecurity,chd,Coronary heart disease,0.4652,True,1.0486,0.0475,False,True
+foodinsecu,Food insecurity,copd,COPD,0.6189,True,1.0379,0.0372,False,True
+foodinsecu,Food insecurity,stroke,Stroke,0.6595,True,1.0409,0.0401,False,True
+housinsecu,Housing insecurity,diabetes,Diabetes,0.569,True,1.0203,0.0201,False,True
+housinsecu,Housing insecurity,depression,Depression,-0.0359,False,0.9741,-0.0263,False,True
+housinsecu,Housing insecurity,casthma,Asthma,0.5461,True,1.0483,0.0472,True,True
+housinsecu,Housing insecurity,obesity,Obesity,0.2096,True,0.9383,-0.0637,False,False
+housinsecu,Housing insecurity,chd,Coronary heart disease,0.3197,True,1.0374,0.0367,False,True
+housinsecu,Housing insecurity,copd,COPD,0.5291,True,1.0319,0.0314,False,True
+housinsecu,Housing insecurity,stroke,Stroke,0.5357,True,1.0163,0.0161,False,True
+shututility,Utility shutoff threat,diabetes,Diabetes,0.611,True,1.0923,0.0883,True,True
+shututility,Utility shutoff threat,depression,Depression,0.3701,True,1.0238,0.0236,False,True
+shututility,Utility shutoff threat,casthma,Asthma,0.6944,True,1.0133,0.0133,False,True
+shututility,Utility shutoff threat,obesity,Obesity,0.5253,True,1.0357,0.0351,False,True
+shututility,Utility shutoff threat,chd,Coronary heart disease,0.5116,True,1.1069,0.1015,True,True
+shututility,Utility shutoff threat,copd,COPD,0.7225,True,1.1031,0.0981,True,True
+shututility,Utility shutoff threat,stroke,Stroke,0.6169,True,1.0671,0.065,True,True
+lacktrpt,Transportation barriers,diabetes,Diabetes,0.5064,True,1.0396,0.0389,False,True
+lacktrpt,Transportation barriers,depression,Depression,0.2377,True,1.0,0.0,False,False
+lacktrpt,Transportation barriers,casthma,Asthma,0.5822,True,1.0495,0.0483,True,True
+lacktrpt,Transportation barriers,obesity,Obesity,0.2427,True,0.9568,-0.0441,False,False
+lacktrpt,Transportation barriers,chd,Coronary heart disease,0.3635,True,1.068,0.0658,True,True
+lacktrpt,Transportation barriers,copd,COPD,0.5516,True,1.0468,0.0457,False,True
+lacktrpt,Transportation barriers,stroke,Stroke,0.5446,True,1.0494,0.0482,True,True
+emotionspt,Lack of social support,diabetes,Diabetes,0.0683,True,0.9985,-0.0015,False,False
+emotionspt,Lack of social support,depression,Depression,-0.443,True,0.9741,-0.0263,True,True
+emotionspt,Lack of social support,casthma,Asthma,-0.2185,True,1.0515,0.0503,True,False
+emotionspt,Lack of social support,obesity,Obesity,-0.4796,True,0.9233,-0.0798,True,True
+emotionspt,Lack of social support,chd,Coronary heart disease,-0.1384,True,0.9874,-0.0127,False,True
+emotionspt,Lack of social support,copd,COPD,-0.1113,True,1.008,0.008,False,False
+emotionspt,Lack of social support,stroke,Stroke,0.0191,False,1.0041,0.0041,False,True

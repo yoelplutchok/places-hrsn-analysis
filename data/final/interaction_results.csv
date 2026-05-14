@@ -1,0 +1,148 @@
+hrsn_measure,hrsn_label,outcome,outcome_label,moderator,moderator_label,main_beta,main_p,interaction_beta,interaction_se,interaction_p,interaction_significant,r_squared,n_obs,interaction_p_fdr
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,-0.0536,0.09674765720901082,-0.0096,0.0286,0.7355476253983502,False,0.7506,60156,0.7668475243514715
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,-0.0848,0.0004503859048671338,0.0701,0.0259,0.006735089978635572,True,0.7509,60156,0.013379165227830123
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,urban,Urban,-0.001,0.964181926881962,-0.081,0.0174,3.0210622709962826e-06,True,0.751,60156,1.3878004807389174e-05
+loneliness,Loneliness/Social isolation,depression,Depression,medicaid_expanded,Medicaid Expansion,-0.1224,0.029478778268915106,0.2505,0.0514,1.116404838837832e-06,True,0.4193,60156,5.65901763135039e-06
+loneliness,Loneliness/Social isolation,depression,Depression,hrsn_waiver,HRSN Waiver,0.0709,0.40603509336557064,-0.0624,0.0742,0.39999200885883923,False,0.4244,60156,0.48281254365855947
+loneliness,Loneliness/Social isolation,depression,Depression,urban,Urban,0.1153,0.1425730976363048,-0.0362,0.0261,0.16506805283442672,False,0.4099,60156,0.2310952739681974
+loneliness,Loneliness/Social isolation,casthma,Asthma,medicaid_expanded,Medicaid Expansion,-0.2006,0.0002503096043875068,0.1396,0.042,0.0008936723057079029,True,0.5859,60156,0.0022266072701535885
+loneliness,Loneliness/Social isolation,casthma,Asthma,hrsn_waiver,HRSN Waiver,-0.0077,0.894152447214048,-0.1748,0.0533,0.0010448883622828976,True,0.5555,60156,0.002559976487593099
+loneliness,Loneliness/Social isolation,casthma,Asthma,urban,Urban,0.0155,0.8225466941353867,-0.0874,0.0214,4.4349861496975095e-05,True,0.5502,60156,0.0001579706419085125
+loneliness,Loneliness/Social isolation,obesity,Obesity,medicaid_expanded,Medicaid Expansion,-0.3378,3.379866375183359e-19,-0.044,0.038,0.24671756293854097,False,0.7266,60156,0.32095116594659756
+loneliness,Loneliness/Social isolation,obesity,Obesity,hrsn_waiver,HRSN Waiver,-0.3622,3.0966905900860466e-12,0.0288,0.0442,0.5148879142293238,False,0.7334,60156,0.5959726251315796
+loneliness,Loneliness/Social isolation,obesity,Obesity,urban,Urban,-0.3447,8.988479624657774e-14,-0.0447,0.0158,0.004576755387364692,True,0.7254,60156,0.00934420891586958
+loneliness,Loneliness/Social isolation,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,-0.1978,7.071064011942254e-22,-0.0245,0.0206,0.2346739384449501,False,0.7654,60156,0.3136097177400697
+loneliness,Loneliness/Social isolation,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,-0.2226,1.6276827295767488e-47,-0.0088,0.0189,0.6426629427707763,False,0.7658,60156,0.6997885376837342
+loneliness,Loneliness/Social isolation,chd,Coronary heart disease,urban,Urban,-0.1897,2.6791335032943057e-27,-0.036,0.0143,0.01205215593918588,True,0.766,60156,0.021019420214860397
+loneliness,Loneliness/Social isolation,copd,COPD,medicaid_expanded,Medicaid Expansion,-0.1241,4.111295060310626e-10,-0.018,0.0214,0.4007015668458793,False,0.7751,60156,0.48281254365855947
+loneliness,Loneliness/Social isolation,copd,COPD,hrsn_waiver,HRSN Waiver,-0.1082,4.914592152752231e-09,-0.0781,0.018,1.4783162647835246e-05,True,0.7759,60156,5.8733105654913e-05
+loneliness,Loneliness/Social isolation,copd,COPD,urban,Urban,-0.0785,0.0006511879583161392,-0.071,0.0144,8.731986055399512e-07,True,0.7764,60156,4.584292679084744e-06
+loneliness,Loneliness/Social isolation,stroke,Stroke,medicaid_expanded,Medicaid Expansion,-0.1215,3.7826347189949334e-07,-0.0144,0.023,0.5318938233242118,False,0.7879,60156,0.6061115661136367
+loneliness,Loneliness/Social isolation,stroke,Stroke,hrsn_waiver,HRSN Waiver,-0.1517,1.5452713197051307e-32,0.0243,0.017,0.15127661352926802,False,0.7892,60156,0.2201748731564594
+loneliness,Loneliness/Social isolation,stroke,Stroke,urban,Urban,-0.0598,0.0003220287069559098,-0.0902,0.0177,3.3527376436210167e-07,True,0.7899,60156,2.1428366678795194e-06
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.6382,2.479663113648448e-61,-0.1186,0.034,0.0004804938148888733,True,0.8026,60156,0.0014126518157732875
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.5175,1.0688474044349906e-102,-0.0271,0.0239,0.256141792543639,False,0.7968,60156,0.3302881009115345
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,urban,Urban,0.5531,7.416079186339519e-91,-0.0889,0.017,1.7038586454505137e-07,True,0.7963,60156,1.2523361044061275e-06
+foodstamp,Food stamps/SNAP,depression,Depression,medicaid_expanded,Medicaid Expansion,0.1486,0.0002646106208998185,0.109,0.0345,0.0015650051628802169,True,0.4201,60156,0.0035446984259352747
+foodstamp,Food stamps/SNAP,depression,Depression,hrsn_waiver,HRSN Waiver,0.2116,1.485545344656464e-06,0.0536,0.039,0.16870140600605177,False,0.4327,60156,0.23395383663103406
+foodstamp,Food stamps/SNAP,depression,Depression,urban,Urban,0.2255,4.72290802545233e-10,0.0379,0.0232,0.10184011665168329,False,0.4186,60156,0.15594267862289005
+foodstamp,Food stamps/SNAP,casthma,Asthma,medicaid_expanded,Medicaid Expansion,0.5382,8.748408244893526e-20,0.0546,0.0353,0.12181560405504446,False,0.6421,60156,0.18087771511203574
+foodstamp,Food stamps/SNAP,casthma,Asthma,hrsn_waiver,HRSN Waiver,0.6527,1.4955034874803448e-48,-0.0398,0.0434,0.3589004245509083,False,0.6249,60156,0.4433475832687691
+foodstamp,Food stamps/SNAP,casthma,Asthma,urban,Urban,0.6378,1.1368887617479601e-46,0.01,0.0165,0.5448436064155489,False,0.6246,60156,0.6152515752206189
+foodstamp,Food stamps/SNAP,obesity,Obesity,medicaid_expanded,Medicaid Expansion,0.2756,1.358336373577869e-18,-0.0331,0.0252,0.18829897335868395,False,0.6855,60156,0.2562958248493198
+foodstamp,Food stamps/SNAP,obesity,Obesity,hrsn_waiver,HRSN Waiver,0.2147,5.55618966897683e-13,0.084,0.0361,0.020002565781111446,True,0.6996,60156,0.034190432207248635
+foodstamp,Food stamps/SNAP,obesity,Obesity,urban,Urban,0.2376,1.8272837424698152e-20,-0.0539,0.0215,0.01200120788097405,True,0.6789,60156,0.021019420214860397
+foodstamp,Food stamps/SNAP,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,0.4992,3.9524307242936244e-41,-0.0716,0.0334,0.03204616230940504,False,0.7827,60156,0.05353165749411978
+foodstamp,Food stamps/SNAP,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,0.419,1.3547745806203009e-75,-0.01,0.0261,0.7009117469678829,False,0.7793,60156,0.7359573343162771
+foodstamp,Food stamps/SNAP,chd,Coronary heart disease,urban,Urban,0.4435,1.482178728571464e-72,-0.0548,0.0162,0.0007131161350497612,True,0.7797,60156,0.001936593890256445
+foodstamp,Food stamps/SNAP,copd,COPD,medicaid_expanded,Medicaid Expansion,0.6081,4.2252280233716845e-42,-0.056,0.0388,0.14881873776955368,False,0.8245,60156,0.2187635445212439
+foodstamp,Food stamps/SNAP,copd,COPD,hrsn_waiver,HRSN Waiver,0.5733,3.105548084453473e-147,-0.0855,0.0289,0.0031299798343743853,True,0.8253,60156,0.0066682179080149945
+foodstamp,Food stamps/SNAP,copd,COPD,urban,Urban,0.5801,3.053266924659208e-139,-0.0668,0.0157,2.1946123830148514e-05,True,0.8236,60156,8.489684744820609e-05
+foodstamp,Food stamps/SNAP,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.6731,5.246715297385843e-58,-0.1276,0.0363,0.00044014619070528163,True,0.8404,60156,0.0013204385721158449
+foodstamp,Food stamps/SNAP,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.5504,4.558682039390072e-211,-0.0404,0.0232,0.08185596276235971,False,0.8357,60156,0.12666133185333553
+foodstamp,Food stamps/SNAP,stroke,Stroke,urban,Urban,0.5968,4.713980601540004e-182,-0.0996,0.0143,3.325676387719303e-12,True,0.8375,60156,6.983920414210537e-11
+foodinsecu,Food insecurity,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.8369,0.0,-0.1071,0.024,7.869170841411087e-06,True,0.818,60156,3.3050517533926566e-05
+foodinsecu,Food insecurity,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.7277,8.690289656876297e-248,0.0122,0.0207,0.5545432032860245,False,0.8132,60156,0.617559476386709
+foodinsecu,Food insecurity,diabetes,Diabetes,urban,Urban,0.7932,4.009560395883654e-279,-0.0988,0.0155,2.047892197333282e-10,True,0.8149,60156,2.3156934846768652e-09
+foodinsecu,Food insecurity,depression,Depression,medicaid_expanded,Medicaid Expansion,-0.1559,0.04614357206365924,0.1136,0.0374,0.0023701379977356003,True,0.4101,60156,0.005200153517419899
+foodinsecu,Food insecurity,depression,Depression,hrsn_waiver,HRSN Waiver,-0.0463,0.5947353274805559,0.0638,0.0396,0.10785172516041674,False,0.4236,60156,0.16344539792351817
+foodinsecu,Food insecurity,depression,Depression,urban,Urban,-0.0541,0.4964644691061256,-0.0022,0.0211,0.9162126796076249,False,0.4073,60156,0.9224881089200059
+foodinsecu,Food insecurity,casthma,Asthma,medicaid_expanded,Medicaid Expansion,0.1854,0.008148961031478021,0.1408,0.0413,0.0006457494341214145,True,0.5941,60156,0.0018254839772278448
+foodinsecu,Food insecurity,casthma,Asthma,hrsn_waiver,HRSN Waiver,0.3594,1.6159522693311514e-07,-0.025,0.0417,0.5482854173734767,False,0.5638,60156,0.6152515752206189
+foodinsecu,Food insecurity,casthma,Asthma,urban,Urban,0.3771,2.8898278596436515e-09,-0.0517,0.016,0.001256134293816627,True,0.5627,60156,0.0030113067095202213
+foodinsecu,Food insecurity,obesity,Obesity,medicaid_expanded,Medicaid Expansion,0.2456,1.767340323117623e-05,-0.0077,0.0309,0.8041589267930298,False,0.6813,60156,0.8266528827872405
+foodinsecu,Food insecurity,obesity,Obesity,hrsn_waiver,HRSN Waiver,0.1664,0.027042015049030216,0.1408,0.0419,0.0007826282711280868,True,0.6961,60156,0.002054399211711228
+foodinsecu,Food insecurity,obesity,Obesity,urban,Urban,0.2505,4.956948175695104e-05,-0.0561,0.0208,0.006905200420156277,True,0.6767,60156,0.013534192823506304
+foodinsecu,Food insecurity,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,0.5307,1.97952800148634e-74,-0.0675,0.0213,0.0015673836577264819,True,0.7754,60156,0.0035446984259352747
+foodinsecu,Food insecurity,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,0.4619,1.668669849016745e-40,0.0183,0.0266,0.4923003233126527,False,0.7736,60156,0.5789451802156796
+foodinsecu,Food insecurity,chd,Coronary heart disease,urban,Urban,0.5083,1.613420466332403e-52,-0.0733,0.0143,3.1520798674707954e-07,True,0.7747,60156,2.1061624569009407e-06
+foodinsecu,Food insecurity,copd,COPD,medicaid_expanded,Medicaid Expansion,0.6745,3.227301094942089e-67,-0.0627,0.025,0.012154086518796828,True,0.815,60156,0.021019420214860397
+foodinsecu,Food insecurity,copd,COPD,hrsn_waiver,HRSN Waiver,0.628,1.1545476120660293e-41,-0.0441,0.0314,0.16032703489573963,False,0.8146,60156,0.2266160974007089
+foodinsecu,Food insecurity,copd,COPD,urban,Urban,0.6692,2.7639671424374e-58,-0.0859,0.0134,1.488239994846577e-10,True,0.8158,60156,1.823093993687057e-09
+foodinsecu,Food insecurity,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.7603,3.3945981525707925e-185,-0.1122,0.0222,4.4388456034315396e-07,True,0.8366,60156,2.7187929321018183e-06
+foodinsecu,Food insecurity,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.667,7.431128880282143e-118,-0.0102,0.0239,0.6688573497621944,False,0.835,60156,0.7124784812684244
+foodinsecu,Food insecurity,stroke,Stroke,urban,Urban,0.7331,1.4590124941434464e-145,-0.1225,0.0127,4.813801519738145e-22,True,0.8369,60156,3.5381441170075363e-20
+housinsecu,Housing insecurity,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.7276,1.4823054129484122e-142,-0.1405,0.0302,3.2829735520301615e-06,True,0.7887,60156,1.4624154913588902e-05
+housinsecu,Housing insecurity,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.5603,1.0265062058605496e-91,0.0263,0.0249,0.29176100189640697,False,0.7823,60156,0.3697316144721709
+housinsecu,Housing insecurity,diabetes,Diabetes,urban,Urban,0.6369,3.16895077428291e-111,-0.1097,0.0177,5.159423148444512e-10,True,0.7843,60156,5.056234685475622e-09
+housinsecu,Housing insecurity,depression,Depression,medicaid_expanded,Medicaid Expansion,-0.1918,0.011258014476021767,0.152,0.0373,4.513446911671785e-05,True,0.4111,60156,0.0001579706419085125
+housinsecu,Housing insecurity,depression,Depression,hrsn_waiver,HRSN Waiver,-0.036,0.6461423788381692,0.1224,0.0425,0.003945022037892517,True,0.4253,60156,0.008167862529157747
+housinsecu,Housing insecurity,depression,Depression,urban,Urban,-0.038,0.6260542874025069,-0.0026,0.0212,0.9006212683671172,False,0.4071,60156,0.9130436306894223
+housinsecu,Housing insecurity,casthma,Asthma,medicaid_expanded,Medicaid Expansion,0.3538,4.953485619714207e-07,0.1289,0.0406,0.0015088069010941194,True,0.6052,60156,0.003520549435886279
+housinsecu,Housing insecurity,casthma,Asthma,hrsn_waiver,HRSN Waiver,0.5606,3.689514397545133e-16,-0.0224,0.0421,0.5951333427450063,False,0.581,60156,0.6577789577707964
+housinsecu,Housing insecurity,casthma,Asthma,urban,Urban,0.573,1.1437001310839698e-18,-0.0451,0.0163,0.0058127779614421905,True,0.5793,60156,0.011705183018246603
+housinsecu,Housing insecurity,obesity,Obesity,medicaid_expanded,Medicaid Expansion,0.2667,9.33836268261454e-07,-0.0208,0.0327,0.5252932058138888,False,0.6808,60156,0.603266416051888
+housinsecu,Housing insecurity,obesity,Obesity,hrsn_waiver,HRSN Waiver,0.148,0.038051931148041174,0.1535,0.0448,0.0006129458757002789,True,0.6954,60156,0.0017667263476066864
+housinsecu,Housing insecurity,obesity,Obesity,urban,Urban,0.2382,7.246028824847097e-05,-0.0519,0.0205,0.011190724315881816,True,0.6754,60156,0.020309092276970704
+housinsecu,Housing insecurity,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,0.4099,2.075476895709662e-46,-0.0797,0.0239,0.0008612602260344058,True,0.7603,60156,0.0021828491935699597
+housinsecu,Housing insecurity,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,0.3155,2.336493353902739e-23,0.0228,0.0263,0.38547360041680445,False,0.7582,60156,0.4722051605105854
+housinsecu,Housing insecurity,chd,Coronary heart disease,urban,Urban,0.3643,6.520794308446498e-27,-0.0756,0.0152,6.794514204646809e-07,True,0.7594,60156,3.841513800319542e-06
+housinsecu,Housing insecurity,copd,COPD,medicaid_expanded,Medicaid Expansion,0.6142,1.842150644510574e-74,-0.0831,0.0277,0.0027274976147174832,True,0.7986,60156,0.005896208078874559
+housinsecu,Housing insecurity,copd,COPD,hrsn_waiver,HRSN Waiver,0.5355,4.641820192627332e-42,-0.0361,0.0309,0.24343732009069607,False,0.7975,60156,0.3195114826190386
+housinsecu,Housing insecurity,copd,COPD,urban,Urban,0.5813,3.265483133655555e-57,-0.0883,0.014,3.169448896351517e-10,True,0.799,60156,3.327921341169093e-09
+housinsecu,Housing insecurity,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.672,7.840485612375342e-100,-0.1319,0.0274,1.45305632285966e-06,True,0.8149,60156,7.1199759820123336e-06
+housinsecu,Housing insecurity,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.5423,6.239428454146321e-72,0.0004,0.0246,0.9881270270245034,False,0.8124,60156,0.9881270270245034
+housinsecu,Housing insecurity,stroke,Stroke,urban,Urban,0.6134,3.670107900321787e-83,-0.1277,0.0146,1.7848044501626616e-18,True,0.8147,60156,8.745541805797042e-17
+shututility,Utility shutoff threat,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.7656,1.4856531139748612e-167,-0.134,0.0237,1.4554796205831289e-08,True,0.814,60156,1.2585617895630586e-07
+shututility,Utility shutoff threat,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.6089,1.7034731634821248e-148,0.0237,0.024,0.3233947761581487,False,0.8053,60156,0.4063165136345971
+shututility,Utility shutoff threat,diabetes,Diabetes,urban,Urban,0.6429,6.389522277453433e-124,-0.0624,0.0151,3.532458063739093e-05,True,0.8061,60156,0.00012981783384241166
+shututility,Utility shutoff threat,depression,Depression,medicaid_expanded,Medicaid Expansion,0.213,2.2732468652571356e-08,0.1724,0.0328,1.4073027119118772e-07,True,0.4322,60156,1.088807887637084e-06
+shututility,Utility shutoff threat,depression,Depression,hrsn_waiver,HRSN Waiver,0.4051,5.0797283709032295e-34,0.0879,0.0468,0.06027173253635744,False,0.45,60156,0.09425473066855897
+shututility,Utility shutoff threat,depression,Depression,urban,Urban,0.3408,2.7992435060271634e-22,0.0559,0.021,0.007874404459308685,True,0.4283,60156,0.0148575487138597
+shututility,Utility shutoff threat,casthma,Asthma,medicaid_expanded,Medicaid Expansion,0.4923,3.8479395572830026e-41,0.1582,0.0337,2.6330303695195166e-06,True,0.6435,60156,1.248566013933448e-05
+shututility,Utility shutoff threat,casthma,Asthma,hrsn_waiver,HRSN Waiver,0.7027,4.916383360042171e-91,0.0995,0.0488,0.041337892219216174,False,0.6272,60156,0.06605076256766063
+shututility,Utility shutoff threat,casthma,Asthma,urban,Urban,0.6741,1.614377557847658e-88,0.0426,0.0163,0.008810627319294394,True,0.6219,60156,0.016394458429573114
+shututility,Utility shutoff threat,obesity,Obesity,medicaid_expanded,Medicaid Expansion,0.5636,1.395906378862055e-48,0.0114,0.0272,0.6754128184184809,False,0.7233,60156,0.7142854986152279
+shututility,Utility shutoff threat,obesity,Obesity,hrsn_waiver,HRSN Waiver,0.4614,5.326552064656015e-54,0.2251,0.0308,2.8893563315323236e-13,True,0.7312,60156,8.49470761470503e-12
+shututility,Utility shutoff threat,obesity,Obesity,urban,Urban,0.512,6.6392743595929275e-40,0.0235,0.0221,0.2885172750739764,False,0.7124,60156,0.3688003429206481
+shututility,Utility shutoff threat,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,0.603,1.346710557338198e-201,-0.0736,0.0192,0.00012751646925592258,True,0.7915,60156,0.00041655379956934705
+shututility,Utility shutoff threat,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,0.5081,3.378822142607607e-208,0.0816,0.0156,1.8312836150930972e-07,True,0.7888,60156,1.281898530565168e-06
+shututility,Utility shutoff threat,chd,Coronary heart disease,urban,Urban,0.5218,1.702668836517019e-138,-0.0222,0.0115,0.05352531210555938,False,0.7876,60156,0.08460452558620675
+shututility,Utility shutoff threat,copd,COPD,medicaid_expanded,Medicaid Expansion,0.801,5.780524855430731e-304,-0.0659,0.0204,0.001270074938709209,True,0.8505,60156,0.0030113067095202213
+shututility,Utility shutoff threat,copd,COPD,hrsn_waiver,HRSN Waiver,0.7232,0.0,0.0342,0.0165,0.03829369465546825,False,0.8483,60156,0.06254636793726481
+shututility,Utility shutoff threat,copd,COPD,urban,Urban,0.7286,0.0,-0.0136,0.0103,0.1843089682800031,False,0.8479,60156,0.25320951716972384
+shututility,Utility shutoff threat,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.7563,3.593442155604412e-225,-0.1311,0.0198,3.615974294311044e-11,True,0.8448,60156,5.315482212637234e-10
+shututility,Utility shutoff threat,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.6269,0.0,0.0435,0.0168,0.009762338715810684,True,0.8423,60156,0.01793829739030213
+shututility,Utility shutoff threat,stroke,Stroke,urban,Urban,0.654,3.361609698003185e-305,-0.0758,0.011,5.4137383624384895e-12,True,0.8409,60156,9.947744240980725e-11
+lacktrpt,Transportation barriers,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.5889,2.166657546423225e-108,-0.0816,0.0241,0.0007245759453340441,True,0.7852,60156,0.001936593890256445
+lacktrpt,Transportation barriers,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.5129,1.1303707586044956e-205,-0.0133,0.0202,0.5082095113027482,False,0.7823,60156,0.5929110965198728
+lacktrpt,Transportation barriers,diabetes,Diabetes,urban,Urban,0.5708,1.3896361850406088e-197,-0.1115,0.0149,6.5265054887985e-14,True,0.7837,60156,2.398490767133449e-12
+lacktrpt,Transportation barriers,depression,Depression,medicaid_expanded,Medicaid Expansion,0.1051,0.01198046348991719,0.1531,0.0335,5.006857417556552e-06,True,0.4181,60156,2.1647295305318032e-05
+lacktrpt,Transportation barriers,depression,Depression,hrsn_waiver,HRSN Waiver,0.2136,1.8148286802147394e-07,0.0481,0.0373,0.1977246380520541,False,0.4298,60156,0.2666561632445133
+lacktrpt,Transportation barriers,depression,Depression,urban,Urban,0.216,1.6865982333209177e-09,0.033,0.0209,0.11447020459904891,False,0.4143,60156,0.17170530689857338
+lacktrpt,Transportation barriers,casthma,Asthma,medicaid_expanded,Medicaid Expansion,0.4062,5.816777337050156e-16,0.1581,0.0375,2.4439394638864082e-05,True,0.6208,60156,9.211771825418e-05
+lacktrpt,Transportation barriers,casthma,Asthma,hrsn_waiver,HRSN Waiver,0.5812,6.566975296573187e-48,-0.0051,0.0372,0.8913433502377137,False,0.5922,60156,0.9099130033676661
+lacktrpt,Transportation barriers,casthma,Asthma,urban,Urban,0.5918,8.835752801746706e-52,-0.0176,0.0149,0.23845178647061893,False,0.5916,60156,0.3157875010016305
+lacktrpt,Transportation barriers,obesity,Obesity,medicaid_expanded,Medicaid Expansion,0.2551,6.798814261035436e-16,0.0125,0.0267,0.6401256150522532,False,0.6835,60156,0.6997885376837342
+lacktrpt,Transportation barriers,obesity,Obesity,hrsn_waiver,HRSN Waiver,0.221,9.95939883042128e-14,0.1274,0.0319,6.49485108148078e-05,True,0.6992,60156,0.0002169870702221988
+lacktrpt,Transportation barriers,obesity,Obesity,urban,Urban,0.2699,6.684486048591945e-27,-0.0527,0.0197,0.0076075267993633245,True,0.6784,60156,0.014714558414558009
+lacktrpt,Transportation barriers,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,0.4078,1.3940456170304787e-85,-0.0419,0.0205,0.04115142515743561,False,0.7659,60156,0.06605076256766063
+lacktrpt,Transportation barriers,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,0.3619,6.305634604712558e-122,0.0083,0.0192,0.6657311491585973,False,0.7645,60156,0.7124784812684244
+lacktrpt,Transportation barriers,chd,Coronary heart disease,urban,Urban,0.4057,3.3287020935296805e-153,-0.0762,0.0137,2.4380624199511157e-08,True,0.7658,60156,1.9910843096267445e-07
+lacktrpt,Transportation barriers,copd,COPD,medicaid_expanded,Medicaid Expansion,0.5826,3.4261540018336894e-153,-0.0329,0.0231,0.1549344720662897,False,0.8077,60156,0.22112007178392803
+lacktrpt,Transportation barriers,copd,COPD,hrsn_waiver,HRSN Waiver,0.5686,8.532138139121366e-189,-0.0551,0.0218,0.011371279368979933,True,0.8085,60156,0.020385098380976224
+lacktrpt,Transportation barriers,copd,COPD,urban,Urban,0.598,6.2319050821874365e-239,-0.0839,0.0123,1.0484769212216161e-11,True,0.8089,60156,1.712512304661973e-10
+lacktrpt,Transportation barriers,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.6199,1.1264317289461088e-168,-0.0822,0.0222,0.00021406191984006955,True,0.8216,60156,0.0006840674394889178
+lacktrpt,Transportation barriers,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.5504,3.6441911962983276e-253,-0.0261,0.0183,0.15476202604253794,False,0.8201,60156,0.22112007178392803
+lacktrpt,Transportation barriers,stroke,Stroke,urban,Urban,0.6144,1.602575241466974e-289,-0.1227,0.0125,9.204044337831777e-23,True,0.8229,60156,1.3529945176612713e-20
+emotionspt,Lack of social support,diabetes,Diabetes,medicaid_expanded,Medicaid Expansion,0.1845,9.028872808092655e-08,-0.1071,0.0304,0.00042102688791994326,True,0.7528,60156,0.0012893948442548263
+emotionspt,Lack of social support,diabetes,Diabetes,hrsn_waiver,HRSN Waiver,0.0635,0.028875831707412366,0.0785,0.0217,0.0002981539393212797,True,0.7517,60156,0.000932524022983577
+emotionspt,Lack of social support,diabetes,Diabetes,urban,Urban,0.1579,3.1091033877464026e-10,-0.1159,0.0176,4.003090002682079e-11,True,0.7519,60156,5.349583912675141e-10
+emotionspt,Lack of social support,depression,Depression,medicaid_expanded,Medicaid Expansion,-0.5827,4.2333521061774716e-17,0.1054,0.0475,0.026505209087606365,True,0.4775,60156,0.04478466363078317
+emotionspt,Lack of social support,depression,Depression,hrsn_waiver,HRSN Waiver,-0.5418,3.5232501040088033e-13,0.0367,0.0498,0.46084611572134937,False,0.5039,60156,0.5463256371857932
+emotionspt,Lack of social support,depression,Depression,urban,Urban,-0.4387,1.4738518872436647e-07,-0.0067,0.021,0.7494534937137143,False,0.4669,60156,0.7758427012388451
+emotionspt,Lack of social support,casthma,Asthma,medicaid_expanded,Medicaid Expansion,-0.477,1.0189709255931545e-13,0.1766,0.0436,5.0721749300546426e-05,True,0.6133,60156,0.00017339760807396105
+emotionspt,Lack of social support,casthma,Asthma,hrsn_waiver,HRSN Waiver,-0.1986,0.0007085731149070983,-0.1793,0.0535,0.0008138366746171654,True,0.5713,60156,0.0020988419503284793
+emotionspt,Lack of social support,casthma,Asthma,urban,Urban,-0.1491,0.02129588936898904,-0.0903,0.0204,9.825734902989082e-06,True,0.5638,60156,4.0121750853872084e-05
+emotionspt,Lack of social support,obesity,Obesity,medicaid_expanded,Medicaid Expansion,-0.4145,5.395210730392235e-22,-0.0726,0.0349,0.037721445164914595,False,0.7405,60156,0.06230395999148815
+emotionspt,Lack of social support,obesity,Obesity,hrsn_waiver,HRSN Waiver,-0.4597,1.9192079136948428e-11,0.0481,0.0503,0.3390445868302455,False,0.7455,60156,0.42236910393259397
+emotionspt,Lack of social support,obesity,Obesity,urban,Urban,-0.4205,1.949486970312716e-12,-0.0775,0.0157,8.070636117315994e-07,True,0.7418,60156,4.394012997205374e-06
+emotionspt,Lack of social support,chd,Coronary heart disease,medicaid_expanded,Medicaid Expansion,-0.0726,0.00184635096110645,-0.0733,0.0234,0.0017318410718884423,True,0.7538,60156,0.003857282387387894
+emotionspt,Lack of social support,chd,Coronary heart disease,hrsn_waiver,HRSN Waiver,-0.1409,8.957238496744789e-14,-0.018,0.024,0.4529977593659342,False,0.7535,60156,0.5413875660714823
+emotionspt,Lack of social support,chd,Coronary heart disease,urban,Urban,-0.0767,0.004362517965123742,-0.0805,0.016,4.927641170255317e-07,True,0.7548,60156,2.8974530081101266e-06
+emotionspt,Lack of social support,copd,COPD,medicaid_expanded,Medicaid Expansion,-0.0538,0.06059322393868038,-0.0769,0.0264,0.0036325646862988364,True,0.7728,60156,0.007628385841227557
+emotionspt,Lack of social support,copd,COPD,hrsn_waiver,HRSN Waiver,-0.0903,0.0035616746414134154,-0.0692,0.0261,0.007883597276741882,True,0.7724,60156,0.0148575487138597
+emotionspt,Lack of social support,copd,COPD,urban,Urban,-0.0391,0.2636338405263572,-0.0942,0.0157,1.9645205345780913e-09,True,0.7739,60156,1.8049032411436214e-08
+emotionspt,Lack of social support,stroke,Stroke,medicaid_expanded,Medicaid Expansion,0.104,2.017073490265489e-05,-0.0904,0.0266,0.0006781328467616846,True,0.7825,60156,0.0018808590278107098
+emotionspt,Lack of social support,stroke,Stroke,hrsn_waiver,HRSN Waiver,0.0134,0.4588339108199072,-0.0081,0.0184,0.661764087902643,False,0.7817,60156,0.7124784812684244
+emotionspt,Lack of social support,stroke,Stroke,urban,Urban,0.1231,9.512391126052073e-06,-0.1348,0.0193,2.7110124550919073e-12,True,0.785,60156,6.641980514975173e-11

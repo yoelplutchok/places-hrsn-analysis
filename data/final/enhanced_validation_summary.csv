@@ -1,0 +1,14 @@
+group_by,group_value,n_concordant,n_total,pct_concordant,n_significant,data_source,inverse_proxy
+proxy,mmg_food_insecurity_rate,13,14,92.9,12,Feeding America / CPS,False
+proxy,pct_lila_tracts,3,14,21.4,12,USDA Food Access Atlas,False
+proxy,county_low_access_share,5,7,71.4,3,USDA Food Access Atlas,False
+proxy,eviction_filing_rate,6,7,85.7,5,Eviction Lab / court records,False
+proxy,social_capital_index,3,14,21.4,14,Social Capital Atlas / Meta-Harvard,True
+disease,casthma,6,8,75.0,4,all,False
+disease,chd,4,8,50.0,6,all,False
+disease,copd,3,8,37.5,7,all,False
+disease,depression,4,8,50.0,8,all,False
+disease,diabetes,5,8,62.5,7,all,False
+disease,obesity,4,8,50.0,7,all,False
+disease,stroke,4,8,50.0,7,all,False
+overall,all,30,56,53.6,46,all,False

@@ -1,0 +1,36 @@
+hrsn_measure,hrsn_label,disease,disease_label,mortality_col,n_counties,pct_suppressed,beta_std,se,p_value,ci_lower,ci_upper,r2,significant,primary_beta,primary_significant,concordant,both_significant
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,mortality_diabetes,1894,14.3,-0.0858,0.0302,0.004565,-0.145,-0.0265,0.3524,True,-0.0667,True,True,True
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,mortality_diabetes,1894,14.3,0.0507,0.0458,0.269027,-0.0392,0.1405,0.3503,False,0.5013,True,True,False
+foodinsecu,Food insecurity,diabetes,Diabetes,mortality_diabetes,1894,14.3,0.067,0.0726,0.356382,-0.0754,0.2093,0.3501,False,0.7325,True,True,False
+housinsecu,Housing insecurity,diabetes,Diabetes,mortality_diabetes,1894,14.3,0.031,0.0748,0.678712,-0.1157,0.1777,0.3498,False,0.569,True,True,False
+shututility,Utility shutoff threat,diabetes,Diabetes,mortality_diabetes,1894,14.3,0.2895,0.0559,0.0,0.1799,0.3991,0.3611,True,0.611,True,True,True
+lacktrpt,Transportation barriers,diabetes,Diabetes,mortality_diabetes,1894,14.3,0.1242,0.0695,0.074053,-0.0121,0.2604,0.3512,False,0.5064,True,True,False
+emotionspt,Lack of social support,diabetes,Diabetes,mortality_diabetes,1894,14.3,-0.0325,0.0341,0.34075,-0.0992,0.0343,0.3501,False,0.0683,True,False,False
+loneliness,Loneliness/Social isolation,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,0.0324,0.027,0.230577,-0.0205,0.0853,0.4142,False,-0.2188,True,False,False
+foodstamp,Food stamps/SNAP,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,-0.0241,0.0353,0.493781,-0.0932,0.045,0.4139,False,0.4127,True,False,False
+foodinsecu,Food insecurity,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,-0.0222,0.0645,0.730523,-0.1485,0.1041,0.4138,False,0.4652,True,False,False
+housinsecu,Housing insecurity,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,0.0283,0.0653,0.664655,-0.0996,0.1562,0.4138,False,0.3197,True,True,False
+shututility,Utility shutoff threat,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,0.2389,0.0509,3e-06,0.1391,0.3387,0.4219,True,0.5116,True,True,True
+lacktrpt,Transportation barriers,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,-0.0911,0.0535,0.088612,-0.1959,0.0138,0.4148,False,0.3635,True,False,False
+emotionspt,Lack of social support,chd,Coronary Heart Disease,mortality_ihd,2208,0.1,0.0936,0.0313,0.002737,0.0324,0.1549,0.4167,True,-0.1384,True,False,True
+loneliness,Loneliness/Social isolation,copd,COPD,mortality_copd,2087,5.6,0.0877,0.0223,8.7e-05,0.0439,0.1315,0.5804,True,-0.136,True,False,True
+foodstamp,Food stamps/SNAP,copd,COPD,mortality_copd,2087,5.6,-0.1677,0.0344,1e-06,-0.2351,-0.1004,0.584,True,0.5427,True,False,True
+foodinsecu,Food insecurity,copd,COPD,mortality_copd,2087,5.6,0.0166,0.0786,0.83285,-0.1374,0.1706,0.5776,False,0.6189,True,True,False
+housinsecu,Housing insecurity,copd,COPD,mortality_copd,2087,5.6,-0.0158,0.0774,0.838015,-0.1675,0.1359,0.5776,False,0.5291,True,False,False
+shututility,Utility shutoff threat,copd,COPD,mortality_copd,2087,5.6,0.1441,0.0585,0.013813,0.0294,0.2588,0.5804,True,0.7225,True,True,True
+lacktrpt,Transportation barriers,copd,COPD,mortality_copd,2087,5.6,-0.1338,0.0706,0.058006,-0.2721,0.0045,0.5794,False,0.5516,True,False,False
+emotionspt,Lack of social support,copd,COPD,mortality_copd,2087,5.6,0.0234,0.0303,0.440735,-0.036,0.0828,0.5778,False,-0.1113,True,False,False
+loneliness,Loneliness/Social isolation,stroke,Stroke,mortality_stroke,2022,8.5,0.0485,0.0278,0.080893,-0.006,0.1029,0.4444,False,-0.1328,True,False,False
+foodstamp,Food stamps/SNAP,stroke,Stroke,mortality_stroke,2022,8.5,-0.0418,0.036,0.245457,-0.1124,0.0287,0.444,False,0.5395,True,False,False
+foodinsecu,Food insecurity,stroke,Stroke,mortality_stroke,2022,8.5,0.0121,0.0573,0.832662,-0.1002,0.1244,0.4436,False,0.6595,True,True,False
+housinsecu,Housing insecurity,stroke,Stroke,mortality_stroke,2022,8.5,-0.115,0.0568,0.042693,-0.2263,-0.0038,0.4446,True,0.5357,True,False,True
+shututility,Utility shutoff threat,stroke,Stroke,mortality_stroke,2022,8.5,-0.0181,0.045,0.687778,-0.1062,0.0701,0.4436,False,0.6169,True,False,False
+lacktrpt,Transportation barriers,stroke,Stroke,mortality_stroke,2022,8.5,-0.1456,0.049,0.002989,-0.2417,-0.0495,0.4457,True,0.5446,True,False,True
+emotionspt,Lack of social support,stroke,Stroke,mortality_stroke,2022,8.5,-0.0449,0.0294,0.126436,-0.1025,0.0127,0.4443,False,0.0191,False,False,False
+loneliness,Loneliness/Social isolation,casthma,Asthma,mortality_asthma,161,92.7,-0.0583,0.0872,0.503876,-0.2292,0.1126,0.3644,False,-0.0553,False,True,False
+foodstamp,Food stamps/SNAP,casthma,Asthma,mortality_asthma,161,92.7,-0.1161,0.1773,0.512569,-0.4635,0.2313,0.3649,False,0.6438,True,False,False
+foodinsecu,Food insecurity,casthma,Asthma,mortality_asthma,161,92.7,0.4225,0.3647,0.246676,-0.2923,1.1374,0.3712,False,0.3473,True,True,False
+housinsecu,Housing insecurity,casthma,Asthma,mortality_asthma,161,92.7,0.1751,0.3298,0.595446,-0.4713,0.8215,0.3647,False,0.5461,True,True,False
+shututility,Utility shutoff threat,casthma,Asthma,mortality_asthma,161,92.7,-0.378,0.2934,0.197615,-0.953,0.197,0.373,False,0.6944,True,False,False
+lacktrpt,Transportation barriers,casthma,Asthma,mortality_asthma,161,92.7,-0.1236,0.421,0.769102,-0.9487,0.7016,0.3632,False,0.5822,True,False,False
+emotionspt,Lack of social support,casthma,Asthma,mortality_asthma,161,92.7,0.1003,0.1038,0.333556,-0.103,0.3037,0.3668,False,-0.2185,True,False,False

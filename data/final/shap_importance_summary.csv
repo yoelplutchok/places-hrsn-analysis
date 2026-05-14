@@ -1,0 +1,50 @@
+outcome,outcome_label,feature,feature_label,perm_rank,shap_rank,ols_rank,spearman_perm_vs_ols,spearman_shap_vs_ols
+diabetes,Diabetes,loneliness,Loneliness/Social isolation,6,4,7,0.8214,0.4643
+diabetes,Diabetes,foodstamp,Food stamps/SNAP,3,3,5,0.8214,0.4643
+diabetes,Diabetes,foodinsecu,Food insecurity,1,1,1,0.8214,0.4643
+diabetes,Diabetes,housinsecu,Housing insecurity,5,7,3,0.8214,0.4643
+diabetes,Diabetes,shututility,Utility shutoff threat,2,2,2,0.8214,0.4643
+diabetes,Diabetes,lacktrpt,Transportation barriers,4,5,4,0.8214,0.4643
+diabetes,Diabetes,emotionspt,Lack of social support,7,6,6,0.8214,0.4643
+depression,Depression,loneliness,Loneliness/Social isolation,7,7,5,0.8214,0.8214
+depression,Depression,foodstamp,Food stamps/SNAP,4,4,3,0.8214,0.8214
+depression,Depression,foodinsecu,Food insecurity,6,6,6,0.8214,0.8214
+depression,Depression,housinsecu,Housing insecurity,5,5,7,0.8214,0.8214
+depression,Depression,shututility,Utility shutoff threat,2,2,2,0.8214,0.8214
+depression,Depression,lacktrpt,Transportation barriers,3,3,4,0.8214,0.8214
+depression,Depression,emotionspt,Lack of social support,1,1,1,0.8214,0.8214
+casthma,Asthma,loneliness,Loneliness/Social isolation,7,7,7,0.6429,0.7143
+casthma,Asthma,foodstamp,Food stamps/SNAP,1,1,2,0.6429,0.7143
+casthma,Asthma,foodinsecu,Food insecurity,4,5,5,0.6429,0.7143
+casthma,Asthma,housinsecu,Housing insecurity,6,6,4,0.6429,0.7143
+casthma,Asthma,shututility,Utility shutoff threat,2,2,1,0.6429,0.7143
+casthma,Asthma,lacktrpt,Transportation barriers,5,4,3,0.6429,0.7143
+casthma,Asthma,emotionspt,Lack of social support,3,3,6,0.6429,0.7143
+obesity,Obesity,loneliness,Loneliness/Social isolation,3,3,3,0.9286,0.8929
+obesity,Obesity,foodstamp,Food stamps/SNAP,6,5,7,0.9286,0.8929
+obesity,Obesity,foodinsecu,Food insecurity,4,6,5,0.9286,0.8929
+obesity,Obesity,housinsecu,Housing insecurity,7,7,6,0.9286,0.8929
+obesity,Obesity,shututility,Utility shutoff threat,1,1,1,0.9286,0.8929
+obesity,Obesity,lacktrpt,Transportation barriers,5,4,4,0.9286,0.8929
+obesity,Obesity,emotionspt,Lack of social support,2,2,2,0.9286,0.8929
+chd,Coronary heart disease,loneliness,Loneliness/Social isolation,3,2,6,0.25,0.1071
+chd,Coronary heart disease,foodstamp,Food stamps/SNAP,1,1,3,0.25,0.1071
+chd,Coronary heart disease,foodinsecu,Food insecurity,5,5,2,0.25,0.1071
+chd,Coronary heart disease,housinsecu,Housing insecurity,6,7,5,0.25,0.1071
+chd,Coronary heart disease,shututility,Utility shutoff threat,2,3,1,0.25,0.1071
+chd,Coronary heart disease,lacktrpt,Transportation barriers,7,6,4,0.25,0.1071
+chd,Coronary heart disease,emotionspt,Lack of social support,4,4,7,0.25,0.1071
+copd,COPD,loneliness,Loneliness/Social isolation,5,5,6,0.3214,0.3214
+copd,COPD,foodstamp,Food stamps/SNAP,2,2,4,0.3214,0.3214
+copd,COPD,foodinsecu,Food insecurity,4,4,2,0.3214,0.3214
+copd,COPD,housinsecu,Housing insecurity,7,7,5,0.3214,0.3214
+copd,COPD,shututility,Utility shutoff threat,1,1,1,0.3214,0.3214
+copd,COPD,lacktrpt,Transportation barriers,6,6,3,0.3214,0.3214
+copd,COPD,emotionspt,Lack of social support,3,3,7,0.3214,0.3214
+stroke,Stroke,loneliness,Loneliness/Social isolation,5,5,6,0.8929,0.7143
+stroke,Stroke,foodstamp,Food stamps/SNAP,3,2,4,0.8929,0.7143
+stroke,Stroke,foodinsecu,Food insecurity,2,3,1,0.8929,0.7143
+stroke,Stroke,housinsecu,Housing insecurity,6,7,5,0.8929,0.7143
+stroke,Stroke,shututility,Utility shutoff threat,1,1,2,0.8929,0.7143
+stroke,Stroke,lacktrpt,Transportation barriers,4,4,3,0.8929,0.7143
+stroke,Stroke,emotionspt,Lack of social support,7,6,7,0.8929,0.7143

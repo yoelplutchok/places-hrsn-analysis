@@ -1,0 +1,15 @@
+factor,factor_label,outcome,outcome_label,beta_std,se,pvalue,ci_lower,ci_upper,r_squared,adj_r_squared,n_obs,significant_05,model_type
+material_hardship,Material Hardship,diabetes,Diabetes,0.7182,0.0298,1.0468985558222745e-128,0.6599,0.7765,0.8068,0.8068,60156,True,mutually_adjusted
+social_isolation,Social Isolation,diabetes,Diabetes,-0.1456,0.0455,0.0013784403833251274,-0.2348,-0.0564,0.8068,0.8068,60156,True,mutually_adjusted
+material_hardship,Material Hardship,depression,Depression,0.311,0.033,3.84246342471456e-21,0.2464,0.3756,0.4273,0.4272,60156,True,mutually_adjusted
+social_isolation,Social Isolation,depression,Depression,-0.2405,0.0844,0.004388264508237061,-0.4059,-0.075,0.4273,0.4272,60156,True,mutually_adjusted
+material_hardship,Material Hardship,casthma,Asthma,0.7914,0.037,2.4579798910057858e-101,0.7188,0.864,0.626,0.6259,60156,True,mutually_adjusted
+social_isolation,Social Isolation,casthma,Asthma,-0.3061,0.054,1.4099751880246327e-08,-0.4119,-0.2003,0.626,0.6259,60156,True,mutually_adjusted
+material_hardship,Material Hardship,obesity,Obesity,0.6099,0.0286,3.671015616001677e-101,0.5539,0.6658,0.7894,0.7894,60156,True,mutually_adjusted
+social_isolation,Social Isolation,obesity,Obesity,-0.6272,0.0452,8.618234957029899e-44,-0.7158,-0.5386,0.7894,0.7894,60156,True,mutually_adjusted
+material_hardship,Material Hardship,chd,Coronary heart disease,0.6301,0.024,9.868768588685032e-152,0.583,0.6772,0.8069,0.8068,60156,True,mutually_adjusted
+social_isolation,Social Isolation,chd,Coronary heart disease,-0.3405,0.0214,5.974952844779598e-57,-0.3825,-0.2986,0.8069,0.8068,60156,True,mutually_adjusted
+material_hardship,Material Hardship,copd,COPD,0.8119,0.0227,1.1634561305366623e-280,0.7674,0.8563,0.8497,0.8497,60156,True,mutually_adjusted
+social_isolation,Social Isolation,copd,COPD,-0.306,0.021,6.268235993383424e-48,-0.3472,-0.2647,0.8497,0.8497,60156,True,mutually_adjusted
+material_hardship,Material Hardship,stroke,Stroke,0.7544,0.0274,2.2641121892834946e-167,0.7008,0.808,0.848,0.848,60156,True,mutually_adjusted
+social_isolation,Social Isolation,stroke,Stroke,-0.2229,0.0312,9.390858692435577e-13,-0.284,-0.1617,0.848,0.848,60156,True,mutually_adjusted

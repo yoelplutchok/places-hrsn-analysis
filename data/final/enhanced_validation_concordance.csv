@@ -1,0 +1,57 @@
+v5_proxy,hrsn_equivalent,places_disease,cms_outcome,v5_beta,v5_pvalue,v5_significant,primary_beta,primary_pvalue,primary_significant,concordant,inverse_proxy,data_source,n_obs,is_primary_pair,v5_beta_aligned
+mmg_food_insecurity_rate,foodinsecu,diabetes,cms_diabetes_prev,0.1852,4.701670615320129e-11,True,0.7325,9.534322913263735e-303,True,True,False,Feeding America / CPS,2270,True,0.1852
+mmg_food_insecurity_rate,foodstamp,diabetes,cms_diabetes_prev,0.1852,4.701670615320129e-11,True,0.5013,9.899217160816015e-116,True,True,False,Feeding America / CPS,2270,True,0.1852
+mmg_food_insecurity_rate,foodinsecu,depression,cms_depression_prev,0.3558,1.4923313780599635e-19,True,-0.0516,0.5565202393000057,False,False,False,Feeding America / CPS,2270,True,0.3558
+mmg_food_insecurity_rate,foodstamp,depression,cms_depression_prev,0.3558,1.4923313780599635e-19,True,0.2496,1.673795527146644e-09,True,True,False,Feeding America / CPS,2270,True,0.3558
+mmg_food_insecurity_rate,foodinsecu,copd,cms_copd_prev,0.4759,1.117021431511048e-47,True,0.6189,3.2059514525811674e-42,True,True,False,Feeding America / CPS,2270,True,0.4759
+mmg_food_insecurity_rate,foodstamp,copd,cms_copd_prev,0.4759,1.117021431511048e-47,True,0.5427,1.9120569330765884e-134,True,True,False,Feeding America / CPS,2270,True,0.4759
+mmg_food_insecurity_rate,foodinsecu,chd,cms_chd_prev,0.5876,2.2698278764530645e-71,True,0.4652,1.511754283730579e-42,True,True,False,Feeding America / CPS,2270,True,0.5876
+mmg_food_insecurity_rate,foodstamp,chd,cms_chd_prev,0.5876,2.2698278764530645e-71,True,0.4127,8.578430175163425e-93,True,True,False,Feeding America / CPS,2270,True,0.5876
+mmg_food_insecurity_rate,foodinsecu,casthma,cms_asthma_prev,0.0089,0.8181662807517444,False,0.3473,5.900550658344958e-08,True,True,False,Feeding America / CPS,2270,True,0.0089
+mmg_food_insecurity_rate,foodstamp,casthma,cms_asthma_prev,0.0089,0.8181662807517444,False,0.6438,6.371916487766494e-42,True,True,False,Feeding America / CPS,2270,True,0.0089
+mmg_food_insecurity_rate,foodinsecu,obesity,cms_obesity_prev,0.2665,2.8526973602823436e-12,True,0.2198,0.0019001917945385,True,True,False,Feeding America / CPS,2270,True,0.2665
+mmg_food_insecurity_rate,foodstamp,obesity,cms_obesity_prev,0.2665,2.8526973602823436e-12,True,0.2086,2.89091620028156e-13,True,True,False,Feeding America / CPS,2270,True,0.2665
+mmg_food_insecurity_rate,foodinsecu,stroke,cms_stroke_prev,0.3482,3.96936632652076e-24,True,0.6595,1.0884220027058916e-109,True,True,False,Feeding America / CPS,2270,True,0.3482
+mmg_food_insecurity_rate,foodstamp,stroke,cms_stroke_prev,0.3482,3.96936632652076e-24,True,0.5395,9.206592998093536e-228,True,True,False,Feeding America / CPS,2270,True,0.3482
+pct_lila_tracts,foodinsecu,diabetes,cms_diabetes_prev,-0.0709,0.00019270698288988565,True,0.7325,9.534322913263735e-303,True,False,False,USDA Food Access Atlas,2270,False,-0.0709
+pct_lila_tracts,foodstamp,diabetes,cms_diabetes_prev,-0.0709,0.00019270698288988565,True,0.5013,9.899217160816015e-116,True,False,False,USDA Food Access Atlas,2270,False,-0.0709
+pct_lila_tracts,foodinsecu,depression,cms_depression_prev,-0.0876,0.00034512904597191286,True,-0.0516,0.5565202393000057,False,True,False,USDA Food Access Atlas,2270,False,-0.0876
+pct_lila_tracts,foodstamp,depression,cms_depression_prev,-0.0876,0.00034512904597191286,True,0.2496,1.673795527146644e-09,True,False,False,USDA Food Access Atlas,2270,False,-0.0876
+pct_lila_tracts,foodinsecu,copd,cms_copd_prev,-0.0453,0.04184812892640222,True,0.6189,3.2059514525811674e-42,True,False,False,USDA Food Access Atlas,2270,False,-0.0453
+pct_lila_tracts,foodstamp,copd,cms_copd_prev,-0.0453,0.04184812892640222,True,0.5427,1.9120569330765884e-134,True,False,False,USDA Food Access Atlas,2270,False,-0.0453
+pct_lila_tracts,foodinsecu,chd,cms_chd_prev,-0.1014,1.396767689850624e-06,True,0.4652,1.511754283730579e-42,True,False,False,USDA Food Access Atlas,2270,False,-0.1014
+pct_lila_tracts,foodstamp,chd,cms_chd_prev,-0.1014,1.396767689850624e-06,True,0.4127,8.578430175163425e-93,True,False,False,USDA Food Access Atlas,2270,False,-0.1014
+pct_lila_tracts,foodinsecu,casthma,cms_asthma_prev,0.0167,0.5331323859148518,False,0.3473,5.900550658344958e-08,True,True,False,USDA Food Access Atlas,2270,False,0.0167
+pct_lila_tracts,foodstamp,casthma,cms_asthma_prev,0.0167,0.5331323859148518,False,0.6438,6.371916487766494e-42,True,True,False,USDA Food Access Atlas,2270,False,0.0167
+pct_lila_tracts,foodinsecu,obesity,cms_obesity_prev,-0.0777,0.00024953397230922415,True,0.2198,0.0019001917945385,True,False,False,USDA Food Access Atlas,2270,False,-0.0777
+pct_lila_tracts,foodstamp,obesity,cms_obesity_prev,-0.0777,0.00024953397230922415,True,0.2086,2.89091620028156e-13,True,False,False,USDA Food Access Atlas,2270,False,-0.0777
+pct_lila_tracts,foodinsecu,stroke,cms_stroke_prev,-0.0736,0.0012033326650420528,True,0.6595,1.0884220027058916e-109,True,False,False,USDA Food Access Atlas,2270,False,-0.0736
+pct_lila_tracts,foodstamp,stroke,cms_stroke_prev,-0.0736,0.0012033326650420528,True,0.5395,9.206592998093536e-228,True,False,False,USDA Food Access Atlas,2270,False,-0.0736
+county_low_access_share,foodinsecu,diabetes,cms_diabetes_prev,0.0181,0.40603096649573667,False,0.7325,9.534322913263735e-303,True,True,False,USDA Food Access Atlas,2268,False,0.0181
+county_low_access_share,foodinsecu,depression,cms_depression_prev,-0.0853,0.0013198615308946111,True,-0.0516,0.5565202393000057,False,True,False,USDA Food Access Atlas,2268,False,-0.0853
+county_low_access_share,foodinsecu,copd,cms_copd_prev,-0.0298,0.1880980489434465,False,0.6189,3.2059514525811674e-42,True,False,False,USDA Food Access Atlas,2268,False,-0.0298
+county_low_access_share,foodinsecu,chd,cms_chd_prev,0.0424,0.07927573160885318,False,0.4652,1.511754283730579e-42,True,True,False,USDA Food Access Atlas,2268,False,0.0424
+county_low_access_share,foodinsecu,casthma,cms_asthma_prev,0.0778,0.0037107264505431446,True,0.3473,5.900550658344958e-08,True,True,False,USDA Food Access Atlas,2268,False,0.0778
+county_low_access_share,foodinsecu,obesity,cms_obesity_prev,0.0856,0.00024263109791664074,True,0.2198,0.0019001917945385,True,True,False,USDA Food Access Atlas,2268,False,0.0856
+county_low_access_share,foodinsecu,stroke,cms_stroke_prev,-0.003,0.9036683303163215,False,0.6595,1.0884220027058916e-109,True,False,False,USDA Food Access Atlas,2268,False,-0.003
+eviction_filing_rate,housinsecu,diabetes,cms_diabetes_prev,0.1047,0.00015904818645593182,True,0.569,8.460939593268149e-106,True,True,False,Eviction Lab / court records,869,True,0.1047
+eviction_filing_rate,housinsecu,depression,cms_depression_prev,0.1156,0.006190706051076681,True,-0.0359,0.6723480747276727,False,False,False,Eviction Lab / court records,869,True,0.1156
+eviction_filing_rate,housinsecu,copd,cms_copd_prev,0.1212,0.00015022893222419912,True,0.5291,9.43499472381804e-45,True,True,False,Eviction Lab / court records,869,True,0.1212
+eviction_filing_rate,housinsecu,chd,cms_chd_prev,0.0093,0.7750644856553638,False,0.3197,1.0933775279182092e-24,True,True,False,Eviction Lab / court records,869,True,0.0093
+eviction_filing_rate,housinsecu,casthma,cms_asthma_prev,0.129,0.0006550056782226957,True,0.5461,1.7116673712724732e-16,True,True,False,Eviction Lab / court records,869,True,0.129
+eviction_filing_rate,housinsecu,obesity,cms_obesity_prev,0.0323,0.40471146151842263,False,0.2096,0.0019712484639697,True,True,False,Eviction Lab / court records,869,True,0.0323
+eviction_filing_rate,housinsecu,stroke,cms_stroke_prev,0.1223,4.1123814234916774e-05,True,0.5357,7.111201345997931e-69,True,True,False,Eviction Lab / court records,869,True,0.1223
+social_capital_index,loneliness,diabetes,cms_diabetes_prev,-0.2115,4.914995133605519e-12,True,-0.0667,0.0134931109880095,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2115
+social_capital_index,emotionspt,diabetes,cms_diabetes_prev,-0.2115,4.914995133605519e-12,True,0.0683,0.0075873065548048,True,True,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2115
+social_capital_index,loneliness,depression,cms_depression_prev,-0.3709,8.270839146399879e-20,True,0.086,0.2025393147903587,False,True,True,Social Capital Atlas / Meta-Harvard,2235,True,0.3709
+social_capital_index,emotionspt,depression,cms_depression_prev,-0.3709,8.270839146399879e-20,True,-0.443,3.0963270699066942e-09,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.3709
+social_capital_index,loneliness,copd,cms_copd_prev,-0.165,2.704848113485226e-07,True,-0.136,2.4594937136263577e-18,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.165
+social_capital_index,emotionspt,copd,cms_copd_prev,-0.165,2.704848113485226e-07,True,-0.1113,2.7392422113091125e-05,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.165
+social_capital_index,loneliness,chd,cms_chd_prev,-0.2188,3.1315278375943596e-09,True,-0.2188,1.0970058763493372e-60,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2188
+social_capital_index,emotionspt,chd,cms_chd_prev,-0.2188,3.1315278375943596e-09,True,-0.1384,1.625402625822163e-14,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2188
+social_capital_index,loneliness,casthma,cms_asthma_prev,-0.3116,5.869415861946388e-20,True,-0.0553,0.3695209982854353,False,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.3116
+social_capital_index,emotionspt,casthma,cms_asthma_prev,-0.3116,5.869415861946388e-20,True,-0.2185,0.0002282340796131,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.3116
+social_capital_index,loneliness,obesity,cms_obesity_prev,-0.304,1.298326355264795e-17,True,-0.3809,6.368249827029981e-22,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.304
+social_capital_index,emotionspt,obesity,cms_obesity_prev,-0.304,1.298326355264795e-17,True,-0.4796,3.822415645243498e-20,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.304
+social_capital_index,loneliness,stroke,cms_stroke_prev,-0.2157,2.0280919209421792e-07,True,-0.1328,1.4099120176025074e-14,True,False,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2157
+social_capital_index,emotionspt,stroke,cms_stroke_prev,-0.2157,2.0280919209421792e-07,True,0.0191,0.2042302688453114,False,True,True,Social Capital Atlas / Meta-Harvard,2235,True,0.2157

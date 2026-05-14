@@ -1,0 +1,2 @@
+metric,factor_1,factor_2,within_f1_mean_r,within_f2_mean_r,between_mean_r,htmt_ratio,discriminant_validity
+HTMT,Material Hardship,Social Isolation,0.9621,0.8312,0.7502,0.8389,good

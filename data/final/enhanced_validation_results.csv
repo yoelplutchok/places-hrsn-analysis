@@ -1,0 +1,36 @@
+v5_proxy,hrsn_equivalents,cms_outcome,places_disease,beta,se,pvalue,significant,r_squared,n_obs,inverse_proxy,data_source
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_diabetes_prev,diabetes,0.1852,0.0281,4.701670615320129e-11,True,0.5268,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_depression_prev,depression,0.3558,0.0393,1.4923313780599635e-19,True,0.1779,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_copd_prev,copd,0.4759,0.0328,1.117021431511048e-47,True,0.4385,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_chd_prev,chd,0.5876,0.0329,2.2698278764530645e-71,True,0.2908,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_asthma_prev,casthma,0.0089,0.0388,0.8181662807517444,False,0.175,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_obesity_prev,obesity,0.2665,0.0382,2.8526973602823436e-12,True,0.2371,2270,False,Feeding America / CPS
+mmg_food_insecurity_rate,"foodinsecu, foodstamp",cms_stroke_prev,stroke,0.3482,0.0344,3.96936632652076e-24,True,0.3117,2270,False,Feeding America / CPS
+pct_lila_tracts,"foodinsecu, foodstamp",cms_diabetes_prev,diabetes,-0.0709,0.019,0.00019270698288988565,True,0.5215,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_depression_prev,depression,-0.0876,0.0245,0.00034512904597191286,True,0.1497,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_copd_prev,copd,-0.0453,0.0223,0.04184812892640222,True,0.3787,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_chd_prev,chd,-0.1014,0.021,1.396767689850624e-06,True,0.2054,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_asthma_prev,casthma,0.0167,0.0269,0.5331323859148518,False,0.1752,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_obesity_prev,obesity,-0.0777,0.0212,0.00024953397230922415,True,0.2227,2270,False,USDA Food Access Atlas
+pct_lila_tracts,"foodinsecu, foodstamp",cms_stroke_prev,stroke,-0.0736,0.0227,0.0012033326650420528,True,0.2832,2270,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_diabetes_prev,diabetes,0.0181,0.0218,0.40603096649573667,False,0.5164,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_depression_prev,depression,-0.0853,0.0266,0.0013198615308946111,True,0.1489,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_copd_prev,copd,-0.0298,0.0227,0.1880980489434465,False,0.3763,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_chd_prev,chd,0.0424,0.0242,0.07927573160885318,False,0.1977,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_asthma_prev,casthma,0.0778,0.0268,0.0037107264505431446,True,0.1785,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_obesity_prev,obesity,0.0856,0.0233,0.00024263109791664074,True,0.2218,2268,False,USDA Food Access Atlas
+county_low_access_share,foodinsecu,cms_stroke_prev,stroke,-0.003,0.0249,0.9036683303163215,False,0.2788,2268,False,USDA Food Access Atlas
+eviction_filing_rate,housinsecu,cms_diabetes_prev,diabetes,0.1047,0.0277,0.00015904818645593182,True,0.5762,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_depression_prev,depression,0.1156,0.0422,0.006190706051076681,True,0.2636,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_copd_prev,copd,0.1212,0.032,0.00015022893222419912,True,0.4585,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_chd_prev,chd,0.0093,0.0327,0.7750644856553638,False,0.2158,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_asthma_prev,casthma,0.129,0.0378,0.0006550056782226957,True,0.2677,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_obesity_prev,obesity,0.0323,0.0388,0.40471146151842263,False,0.3131,869,False,Eviction Lab / court records
+eviction_filing_rate,housinsecu,cms_stroke_prev,stroke,0.1223,0.0298,4.1123814234916774e-05,True,0.2684,869,False,Eviction Lab / court records
+social_capital_index,"loneliness, emotionspt",cms_diabetes_prev,diabetes,-0.2115,0.0306,4.914995133605519e-12,True,0.5389,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_depression_prev,depression,-0.3709,0.0407,8.270839146399879e-20,True,0.2156,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_copd_prev,copd,-0.165,0.0321,2.704848113485226e-07,True,0.3932,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_chd_prev,chd,-0.2188,0.0369,3.1315278375943596e-09,True,0.2211,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_asthma_prev,casthma,-0.3116,0.0341,5.869415861946388e-20,True,0.2304,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_obesity_prev,obesity,-0.304,0.0356,1.298326355264795e-17,True,0.2594,2235,True,Social Capital Atlas / Meta-Harvard
+social_capital_index,"loneliness, emotionspt",cms_stroke_prev,stroke,-0.2157,0.0415,2.0280919209421792e-07,True,0.3096,2235,True,Social Capital Atlas / Meta-Harvard

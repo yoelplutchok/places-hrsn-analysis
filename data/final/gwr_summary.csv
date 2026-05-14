@@ -1,0 +1,4 @@
+hrsn_measure,outcome,method,n_obs,bandwidth,global_r2,gwr_r2,global_aic,gwr_aicc,hrsn_beta_mean,hrsn_beta_std,hrsn_beta_min,hrsn_beta_max
+foodinsecu,diabetes,GWR,12002,116.0,0.8097,0.9246,14163.8,7714.0,0.7477,0.2325,-0.3244,1.7398
+shututility,copd,GWR,12002,121.0,0.8493,0.9333,11365.3,6017.6,0.7437,0.2439,-0.1179,1.9642
+shututility,casthma,GWR,12002,81.0,0.6275,0.9536,22221.5,4183.9,0.616,0.3357,-1.6478,3.5492

@@ -1,0 +1,50 @@
+hrsn_measure,hrsn_label,outcome,outcome_label,ecological_beta,ecological_pvalue,ecological_sig,individual_or,individual_log_or,individual_pvalue,individual_sig,direction_match,both_significant
+foodinsecu,Food insecurity,diabetes,Diabetes,0.7325,9.534322913263735e-303,True,1.401,0.3375,1.0994042698471748e-07,True,True,True
+foodinsecu,Food insecurity,depression,Depression,-0.0516,0.5565202393000057,False,2.162,0.7711,1.6919275889982122e-50,True,False,False
+foodinsecu,Food insecurity,casthma,Asthma,0.3473,5.900550658344958e-08,True,1.67,0.5126,1.7005893159173697e-18,True,True,True
+foodinsecu,Food insecurity,obesity,Obesity,0.2198,0.0019001917945385,True,1.249,0.2224,1.0895371618378439e-05,True,True,True
+foodinsecu,Food insecurity,chd,Coronary heart disease,0.4652,1.511754283730579e-42,True,1.855,0.6177,3.9853457362485184e-07,True,True,True
+foodinsecu,Food insecurity,copd,COPD,0.6189,3.2059514525811674e-42,True,1.967,0.6764,1.992931674597697e-23,True,True,True
+foodinsecu,Food insecurity,stroke,Stroke,0.6595,1.0884220027058916e-109,True,1.983,0.6845,2.518070464887466e-09,True,True,True
+foodstamp,Food stamps/SNAP,diabetes,Diabetes,0.5013,9.899217160816015e-116,True,1.463,0.3802,3.198416331754916e-14,True,True,True
+foodstamp,Food stamps/SNAP,depression,Depression,0.2496,1.673795527146644e-09,True,1.675,0.516,2.376070443259801e-38,True,True,True
+foodstamp,Food stamps/SNAP,casthma,Asthma,0.6438,6.371916487766494e-42,True,1.601,0.4705,8.001266793780301e-28,True,True,True
+foodstamp,Food stamps/SNAP,obesity,Obesity,0.2086,2.89091620028156e-13,True,1.384,0.3247,2.456795311394714e-17,True,True,True
+foodstamp,Food stamps/SNAP,chd,Coronary heart disease,0.4127,8.578430175163425e-93,True,1.435,0.3614,8.855112993923548e-06,True,True,True
+foodstamp,Food stamps/SNAP,copd,COPD,0.5427,1.9120569330765884e-134,True,1.906,0.645,1.1766036936465534e-25,True,True,True
+foodstamp,Food stamps/SNAP,stroke,Stroke,0.5395,9.206592998093536e-228,True,1.534,0.4281,2.448680175657541e-07,True,True,True
+housinsecu,Housing insecurity,diabetes,Diabetes,0.569,8.460939593268149e-106,True,1.416,0.3477,3.542447650960226e-12,True,True,True
+housinsecu,Housing insecurity,depression,Depression,-0.0359,0.6723480747276727,False,2.108,0.7457,7.684984103801694e-91,True,False,False
+housinsecu,Housing insecurity,casthma,Asthma,0.5461,1.7116673712724732e-16,True,1.612,0.4776,2.039652651409771e-26,True,True,True
+housinsecu,Housing insecurity,obesity,Obesity,0.2096,0.0019712484639697,True,1.334,0.2883,2.1176922155490443e-16,True,True,True
+housinsecu,Housing insecurity,chd,Coronary heart disease,0.3197,1.0933775279182092e-24,True,1.982,0.6839,2.2145608761017612e-14,True,True,True
+housinsecu,Housing insecurity,copd,COPD,0.5291,9.43499472381804e-45,True,2.086,0.7353,3.2161269886668e-38,True,True,True
+housinsecu,Housing insecurity,stroke,Stroke,0.5357,7.111201345997931e-69,True,1.911,0.6477,1.4291822912016843e-13,True,True,True
+shututility,Utility shutoff threat,diabetes,Diabetes,0.611,2.4207487039840806e-138,True,1.41,0.3437,2.0674911539421362e-10,True,True,True
+shututility,Utility shutoff threat,depression,Depression,0.3701,1.1507393365448641e-29,True,2.024,0.7051,9.273177157637397e-65,True,True,True
+shututility,Utility shutoff threat,casthma,Asthma,0.6944,1.4208337409115921e-89,True,1.589,0.4628,6.889463545472881e-24,True,True,True
+shututility,Utility shutoff threat,obesity,Obesity,0.5253,1.2496155435604267e-42,True,1.386,0.3263,1.5243314231835454e-16,True,True,True
+shututility,Utility shutoff threat,chd,Coronary heart disease,0.5116,1.1571984726335438e-186,True,2.076,0.7306,1.1575999877998163e-10,True,True,True
+shututility,Utility shutoff threat,copd,COPD,0.7225,0.0,True,2.117,0.7498,2.9459741604300745e-37,True,True,True
+shututility,Utility shutoff threat,stroke,Stroke,0.6169,0.0,True,1.83,0.6044,3.320356231777342e-08,True,True,True
+lacktrpt,Transportation barriers,diabetes,Diabetes,0.5064,1.0334883327652574e-228,True,1.42,0.3504,2.7218883686516676e-10,True,True,True
+lacktrpt,Transportation barriers,depression,Depression,0.2377,7.09570050916188e-10,True,2.373,0.864,4.027162753854805e-94,True,True,True
+lacktrpt,Transportation barriers,casthma,Asthma,0.5822,3.811189029041051e-53,True,1.806,0.5912,4.169369054775494e-34,True,True,True
+lacktrpt,Transportation barriers,obesity,Obesity,0.2427,2.6751480193340415e-19,True,1.043,0.0424,0.315833656970805,False,True,False
+lacktrpt,Transportation barriers,chd,Coronary heart disease,0.3635,3.6656221250763636e-155,True,1.965,0.6753,3.59802236018229e-11,True,True,True
+lacktrpt,Transportation barriers,copd,COPD,0.5516,8.715895903869317e-195,True,2.228,0.8012,1.5250198964143777e-39,True,True,True
+lacktrpt,Transportation barriers,stroke,Stroke,0.5446,1.2221762715102084e-243,True,2.26,0.8154,3.471678476437783e-19,True,True,True
+emotionspt,Lack of social support,diabetes,Diabetes,0.0683,0.0075873065548048,True,1.19,0.1738,0.008137255474129858,True,True,True
+emotionspt,Lack of social support,depression,Depression,-0.443,3.0963270699066942e-09,True,2.042,0.7141,1.0429827974005784e-62,True,False,True
+emotionspt,Lack of social support,casthma,Asthma,-0.2185,0.0002282340796131,True,1.299,0.2618,4.1624539278886253e-07,True,False,True
+emotionspt,Lack of social support,obesity,Obesity,-0.4796,3.822415645243498e-20,True,0.994,-0.0056,0.8952047131539651,False,True,False
+emotionspt,Lack of social support,chd,Coronary heart disease,-0.1384,1.625402625822163e-14,True,1.31,0.2702,0.007038292011293738,True,False,True
+emotionspt,Lack of social support,copd,COPD,-0.1113,2.7392422113091125e-05,True,1.534,0.428,2.1075022852923998e-10,True,False,True
+emotionspt,Lack of social support,stroke,Stroke,0.0191,0.2042302688453114,False,1.353,0.3026,0.0035446522117554445,True,True,False
+loneliness,Loneliness/Social isolation,diabetes,Diabetes,-0.0667,0.0134931109880095,True,1.291,0.2553,5.432357277369694e-05,True,False,True
+loneliness,Loneliness/Social isolation,depression,Depression,0.086,0.2025393147903587,False,4.341,1.468,4.7939534988458986e-256,True,True,False
+loneliness,Loneliness/Social isolation,casthma,Asthma,-0.0553,0.3695209982854353,False,1.513,0.414,1.380209935112413e-19,True,False,False
+loneliness,Loneliness/Social isolation,obesity,Obesity,-0.3809,6.368249827029981e-22,True,1.093,0.0891,0.03212769799982096,True,False,True
+loneliness,Loneliness/Social isolation,chd,Coronary heart disease,-0.2188,1.0970058763493372e-60,True,1.984,0.6849,1.0423263845424327e-12,True,False,True
+loneliness,Loneliness/Social isolation,copd,COPD,-0.136,2.4594937136263577e-18,True,2.109,0.7462,4.703331053655356e-31,True,False,True
+loneliness,Loneliness/Social isolation,stroke,Stroke,-0.1328,1.4099120176025074e-14,True,1.716,0.5402,3.3237680245713863e-11,True,False,True

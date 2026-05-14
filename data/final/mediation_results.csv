@@ -1,0 +1,29 @@
+svi_theme,svi_label,mediator,outcome,outcome_label,path_a,path_b,path_c_total,path_c_prime_direct,indirect_effect,indirect_ci_lower,indirect_ci_upper,proportion_mediated,significant,r2_total,r2_mediated
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,diabetes,Diabetes,0.0601,0.6476,0.0751,0.0362,0.0389,0.0346,0.0434,0.5183,True,0.7504,0.8022
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,depression,Depression,0.0601,0.2045,-0.0,-0.0123,0.0123,0.0106,0.0143,,True,0.4076,0.4128
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,casthma,Asthma,0.0601,0.6653,-0.0201,-0.0601,0.04,0.0356,0.0445,-1.9854,True,0.5496,0.6044
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,obesity,Obesity,0.0601,0.338,-0.1083,-0.1286,0.0203,0.0179,0.0227,-0.1876,True,0.6731,0.6873
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,chd,Coronary heart disease,0.0601,0.4677,0.0767,0.0485,0.0281,0.0251,0.0313,0.3667,True,0.7508,0.7779
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,copd,COPD,0.0601,0.6588,0.13,0.0904,0.0396,0.0352,0.044,0.3047,True,0.7731,0.8267
+RPL_THEME1,SVI: Socioeconomic Status,material_hardship,stroke,Stroke,0.0601,0.6501,0.0728,0.0338,0.0391,0.0347,0.0432,0.5365,True,0.7843,0.8365
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,diabetes,Diabetes,0.043,0.6285,0.1379,0.1109,0.027,0.0245,0.0295,0.1961,True,0.7607,0.8094
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,depression,Depression,0.043,0.2172,-0.0573,-0.0667,0.0093,0.0082,0.0105,-0.163,True,0.4097,0.4155
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,casthma,Asthma,0.043,0.6568,0.0321,0.0039,0.0283,0.0257,0.031,0.8793,True,0.5502,0.6034
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,obesity,Obesity,0.043,0.316,0.0391,0.0255,0.0136,0.0122,0.0149,0.3476,True,0.671,0.6833
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,chd,Coronary heart disease,0.043,0.4512,0.1254,0.106,0.0194,0.0175,0.0213,0.1548,True,0.7591,0.7842
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,copd,COPD,0.043,0.6529,0.1094,0.0813,0.0281,0.0255,0.0308,0.2568,True,0.776,0.8287
+RPL_THEME2,SVI: Household Composition/Disability,material_hardship,stroke,Stroke,0.043,0.6333,0.1256,0.0984,0.0273,0.0247,0.03,0.2169,True,0.7927,0.8422
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,diabetes,Diabetes,0.0668,0.642,0.1315,0.0886,0.0429,0.0373,0.0484,0.3262,True,0.7526,0.8035
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,depression,Depression,0.0668,0.2648,-0.5179,-0.5356,0.0177,0.0152,0.0204,-0.0342,True,0.4655,0.4741
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,casthma,Asthma,0.0668,0.6993,-0.3134,-0.3601,0.0467,0.0406,0.0528,-0.149,True,0.5707,0.6312
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,obesity,Obesity,0.0668,0.3765,-0.4507,-0.4759,0.0251,0.0219,0.0285,-0.0558,True,0.7138,0.7313
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,chd,Coronary heart disease,0.0668,0.489,-0.098,-0.1306,0.0327,0.0284,0.0372,-0.3334,True,0.7514,0.7809
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,copd,COPD,0.0668,0.691,-0.1326,-0.1788,0.0462,0.04,0.0521,-0.348,True,0.7724,0.8314
+RPL_THEME3,SVI: Minority Status/Language,material_hardship,stroke,Stroke,0.0668,0.6556,0.0335,-0.0103,0.0438,0.0378,0.0492,1.308,True,0.7831,0.8363
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,diabetes,Diabetes,0.0087,0.654,-0.0268,-0.0325,0.0057,0.0034,0.0079,-0.213,True,0.7494,0.8026
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,depression,Depression,0.0087,0.206,-0.056,-0.0578,0.0018,0.0011,0.0025,-0.0321,True,0.41,0.4153
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,casthma,Asthma,0.0087,0.6589,-0.0188,-0.0246,0.0057,0.0036,0.0079,-0.3052,True,0.5498,0.6039
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,obesity,Obesity,0.0087,0.327,-0.1027,-0.1056,0.0029,0.0017,0.0039,-0.0278,True,0.678,0.6913
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,chd,Coronary heart disease,0.0087,0.4737,0.0083,0.0042,0.0041,0.0024,0.0057,0.4967,True,0.7493,0.7773
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,copd,COPD,0.0087,0.671,-0.0058,-0.0116,0.0059,0.0037,0.0081,-1.0156,True,0.7686,0.8247
+RPL_THEME4,SVI: Housing Type/Transportation,material_hardship,stroke,Stroke,0.0087,0.6539,0.0145,0.0088,0.0057,0.0035,0.008,0.3943,True,0.783,0.8363

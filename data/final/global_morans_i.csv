@@ -1,0 +1,15 @@
+variable,label,type,morans_i,expected_i,z_score,p_value,significant_05
+loneliness,Loneliness/Social isolation,hrsn,0.7789,-0.0,318.6819,0.001,True
+foodstamp,Food stamps/SNAP,hrsn,0.6532,-0.0,267.4281,0.001,True
+foodinsecu,Food insecurity,hrsn,0.685,-0.0,286.2019,0.001,True
+housinsecu,Housing insecurity,hrsn,0.7184,-0.0,309.7065,0.001,True
+shututility,Utility shutoff threat,hrsn,0.6702,-0.0,272.0461,0.001,True
+lacktrpt,Transportation barriers,hrsn,0.6533,-0.0,274.9673,0.001,True
+emotionspt,Lack of social support,hrsn,0.8139,-0.0,341.2655,0.001,True
+diabetes,Diabetes,outcome,0.6757,-0.0,274.3932,0.001,True
+depression,Depression,outcome,0.869,-0.0,360.1984,0.001,True
+casthma,Asthma,outcome,0.7978,-0.0,321.9932,0.001,True
+obesity,Obesity,outcome,0.8313,-0.0,333.3572,0.001,True
+chd,Coronary heart disease,outcome,0.6338,-0.0,260.9991,0.001,True
+copd,COPD,outcome,0.6856,-0.0,291.5036,0.001,True
+stroke,Stroke,outcome,0.6363,-0.0,266.9277,0.001,True

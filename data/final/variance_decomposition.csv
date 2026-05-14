@@ -1,0 +1,64 @@
+model_type,variable,variable_label,variable_type,hrsn_measure,sigma_between,sigma_within,icc,r2_between,r2_within,r2_total,n_obs,n_groups,converged
+null_icc,loneliness,Loneliness/Social isolation,hrsn,,0.375089,0.494004,0.4316,,,,60156,2294,True
+null_icc,foodstamp,Food stamps/SNAP,hrsn,,0.179005,0.772991,0.188,,,,60156,2294,True
+null_icc,foodinsecu,Food insecurity,hrsn,,0.271607,0.76118,0.263,,,,60156,2294,False
+null_icc,housinsecu,Housing insecurity,hrsn,,0.192108,0.744052,0.2052,,,,60156,2294,True
+null_icc,shututility,Utility shutoff threat,hrsn,,0.226231,0.750023,0.2317,,,,60156,2294,True
+null_icc,lacktrpt,Transportation barriers,hrsn,,0.390936,0.776765,0.3348,,,,60156,2294,False
+null_icc,emotionspt,Lack of social support,hrsn,,0.342124,0.530734,0.392,,,,60156,2294,True
+null_icc,diabetes,Diabetes,outcome,,0.437311,0.648354,0.4028,,,,60156,2294,True
+null_icc,depression,Depression,outcome,,0.587883,0.212552,0.7345,,,,60156,2294,True
+null_icc,casthma,Asthma,outcome,,0.332493,0.463487,0.4177,,,,60156,2294,True
+null_icc,obesity,Obesity,outcome,,0.345149,0.387031,0.4714,,,,60156,2294,True
+null_icc,chd,Coronary heart disease,outcome,,0.468582,0.544427,0.4626,,,,60156,2294,True
+null_icc,copd,COPD,outcome,,0.478403,0.495101,0.4914,,,,60156,2294,True
+null_icc,stroke,Stroke,outcome,,0.40809,0.651835,0.385,,,,60156,2294,True
+conditional,diabetes,Diabetes,outcome,loneliness,0.137248,0.170486,0.4028,0.6862,0.737,0.7165,60156,2294,True
+conditional,depression,Depression,outcome,loneliness,0.458468,0.105613,0.7345,0.2201,0.5031,0.2953,60156,2294,True
+conditional,casthma,Asthma,outcome,loneliness,0.359609,0.123344,0.4177,-0.0816,0.7339,0.3933,60156,2294,True
+conditional,obesity,Obesity,outcome,loneliness,0.215874,0.059456,0.4714,0.3745,0.8464,0.624,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,loneliness,0.143015,0.168261,0.4626,0.6948,0.6909,0.6927,60156,2294,True
+conditional,copd,COPD,outcome,loneliness,0.143478,0.160714,0.4914,0.7001,0.6754,0.6875,60156,2294,True
+conditional,stroke,Stroke,outcome,loneliness,0.069421,0.175721,0.385,0.8299,0.7304,0.7687,60156,2294,True
+conditional,diabetes,Diabetes,outcome,foodstamp,0.121364,0.117006,0.4028,0.7225,0.8195,0.7804,60156,2294,True
+conditional,depression,Depression,outcome,foodstamp,0.460557,0.106336,0.7345,0.2166,0.4997,0.2918,60156,2294,True
+conditional,casthma,Asthma,outcome,foodstamp,0.288539,0.101129,0.4177,0.1322,0.7818,0.5105,60156,2294,True
+conditional,obesity,Obesity,outcome,foodstamp,0.240996,0.037688,0.4714,0.3018,0.9026,0.6194,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,foodstamp,0.104415,0.156274,0.4626,0.7772,0.713,0.7427,60156,2294,True
+conditional,copd,COPD,outcome,foodstamp,0.133427,0.098396,0.4914,0.7211,0.8013,0.7619,60156,2294,True
+conditional,stroke,Stroke,outcome,foodstamp,0.073466,0.122818,0.385,0.82,0.8116,0.8148,60156,2294,True
+conditional,diabetes,Diabetes,outcome,foodinsecu,0.077037,0.122482,0.4028,0.8238,0.8111,0.8162,60156,2294,True
+conditional,depression,Depression,outcome,foodinsecu,0.473463,0.108309,0.7345,0.1946,0.4904,0.2732,60156,2294,True
+conditional,casthma,Asthma,outcome,foodinsecu,0.346013,0.11019,0.4177,-0.0407,0.7623,0.4269,60156,2294,True
+conditional,obesity,Obesity,outcome,foodinsecu,0.233221,0.0449,0.4714,0.3243,0.884,0.6201,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,foodinsecu,0.082262,0.170778,0.4626,0.8244,0.6863,0.7502,60156,2294,True
+conditional,copd,COPD,outcome,foodinsecu,0.107946,0.117595,0.4914,0.7744,0.7625,0.7683,60156,2294,True
+conditional,stroke,Stroke,outcome,foodinsecu,0.021095,0.141061,0.385,0.9483,0.7836,0.847,60156,2294,True
+conditional,diabetes,Diabetes,outcome,housinsecu,0.094334,0.141875,0.4028,0.7843,0.7812,0.7824,60156,2294,True
+conditional,depression,Depression,outcome,housinsecu,0.472435,0.107323,0.7345,0.1964,0.4951,0.2757,60156,2294,True
+conditional,casthma,Asthma,outcome,housinsecu,0.328439,0.10482,0.4177,0.0122,0.7738,0.4557,60156,2294,True
+conditional,obesity,Obesity,outcome,housinsecu,0.242259,0.03871,0.4714,0.2981,0.9,0.6163,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,housinsecu,0.090827,0.184397,0.4626,0.8062,0.6613,0.7283,60156,2294,True
+conditional,copd,COPD,outcome,housinsecu,0.116332,0.131626,0.4914,0.7568,0.7341,0.7453,60156,2294,True
+conditional,stroke,Stroke,outcome,housinsecu,0.047937,0.155377,0.385,0.8825,0.7616,0.8082,60156,2294,True
+conditional,diabetes,Diabetes,outcome,shututility,0.084322,0.125984,0.4028,0.8072,0.8057,0.8063,60156,2294,True
+conditional,depression,Depression,outcome,shututility,0.461521,0.106067,0.7345,0.2149,0.501,0.2909,60156,2294,True
+conditional,casthma,Asthma,outcome,shututility,0.303336,0.098316,0.4177,0.0877,0.7879,0.4954,60156,2294,True
+conditional,obesity,Obesity,outcome,shututility,0.221905,0.032487,0.4714,0.3571,0.9161,0.6526,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,shututility,0.077616,0.16731,0.4626,0.8344,0.6927,0.7582,60156,2294,True
+conditional,copd,COPD,outcome,shututility,0.094373,0.105048,0.4914,0.8027,0.7878,0.7952,60156,2294,True
+conditional,stroke,Stroke,outcome,shututility,0.045393,0.131481,0.385,0.8888,0.7983,0.8331,60156,2294,True
+conditional,diabetes,Diabetes,outcome,lacktrpt,0.089816,0.15036,0.4028,0.7946,0.7681,0.7788,60156,2294,True
+conditional,depression,Depression,outcome,lacktrpt,0.471731,0.104077,0.7345,0.1976,0.5103,0.2806,60156,2294,True
+conditional,casthma,Asthma,outcome,lacktrpt,0.326505,0.100075,0.4177,0.018,0.7841,0.4641,60156,2294,True
+conditional,obesity,Obesity,outcome,lacktrpt,0.23916,0.04682,0.4714,0.3071,0.879,0.6094,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,lacktrpt,0.086373,0.18384,0.4626,0.8157,0.6623,0.7333,60156,2294,True
+conditional,copd,COPD,outcome,lacktrpt,0.117289,0.1286,0.4914,0.7548,0.7403,0.7474,60156,2294,True
+conditional,stroke,Stroke,outcome,lacktrpt,0.039558,0.156264,0.385,0.9031,0.7603,0.8152,60156,2294,True
+conditional,diabetes,Diabetes,outcome,emotionspt,0.099596,0.179882,0.4028,0.7723,0.7226,0.7426,60156,2294,True
+conditional,depression,Depression,outcome,emotionspt,0.501013,0.091191,0.7345,0.1478,0.571,0.2601,60156,2294,True
+conditional,casthma,Asthma,outcome,emotionspt,0.3586,0.120905,0.4177,-0.0785,0.7391,0.3976,60156,2294,True
+conditional,obesity,Obesity,outcome,emotionspt,0.224542,0.063749,0.4714,0.3494,0.8353,0.6063,60156,2294,True
+conditional,chd,Coronary heart disease,outcome,emotionspt,0.090885,0.199882,0.4626,0.806,0.6329,0.713,60156,2294,True
+conditional,copd,COPD,outcome,emotionspt,0.116734,0.170177,0.4914,0.756,0.6563,0.7053,60156,2294,True
+conditional,stroke,Stroke,outcome,emotionspt,0.03455,0.194062,0.385,0.9153,0.7023,0.7843,60156,2294,True
